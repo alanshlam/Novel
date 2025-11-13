@@ -97,4 +97,4 @@ For a breathtaking moment, as their planes flew in perfect, terrifying unison, t
 
 Finally, they cleared the corridor. The last threat icon vanished from his screen. He peeled away, his jet rolling upright as he broke the formation. Ruby's transport was safe, a clean vector to the border. As her plane sped away, she pressed a hand to the cold glass of the window, her heart aching with a silent thank you, and a question that would haunt her: in a world without war, who could they have been to each other?
 
-<img src="../image/chaper2-2.png" width="300">
+<img src="../image/chapter2.png" width="300">
