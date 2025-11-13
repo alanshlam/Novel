@@ -1,8 +1,10 @@
+# The Inverted Sky
  ## Introduction for Chapter 1
   Trapped behind enemy lines, Air Force cadet Sean Walker expects a bullet, not mercy. When he comes
   face-to-face with a lone enemy diplomat, he offers his life for his students. But her decision will shatter
   his understanding of the war and ignite a connection that defies allegiance.
 
+# 逆轉蒼穹
 ## Introduction for Chapter 2
   A routine patrol turns into a race against time when newly-commissioned pilot Sean Walker discovers the
   diplomat who once saved him is now flying into a death trap. With radio silence enforced and enemy guns on
