@@ -89,6 +89,6 @@
 最終，他們離開了死亡走廊。最後一個威脅圖標從他的屏幕上消失。他脫離編隊，飛機翻正，打破了隊形。露比的運輸機安全了，一條直達邊境的乾淨航線。當她的飛機加速離去時，她將一隻手按在冰冷的窗玻璃上，心中充滿了無聲的感謝，以及一個將會縈繞她心頭的問題：在一個沒有戰爭的世界裡，他們之間，本可以是什麼？
 
 
+<img src="../image/chapter2.png" width="300"> [sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
 
-<img src="../image/chaper2-2.png" width="300">
 
