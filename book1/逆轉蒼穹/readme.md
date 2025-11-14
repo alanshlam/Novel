@@ -52,7 +52,7 @@
 在隨之而來的寂靜中，尚恩吐出了一口他未曾意識到自己一直屏住的氣。他不知道她的名字，但他知道他欠她一條命，以及他學生們的命。在他內心深處，一聲無聲的「謝謝」獻給了這位向他施以憐憫的敵人。憑藉著新生的決心，他集結了他的學生，一同穿越了那條險惡的路，返回己方陣線，那位神秘外交官的記憶已深深烙印在他的腦海中。
 
 
-<img src="../image/chapter1.jpg" width="300"> [sample vidoe](https://youtube.com/shorts/_9CZ9rMFGUY)
+<img src="../image/chapter1.jpg" width="300"> [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
 
 
 ---
