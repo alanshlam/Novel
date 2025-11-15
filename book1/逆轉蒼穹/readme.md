@@ -54,7 +54,7 @@
 
 [<img src="../image/chapter1.jpg" width="300">](https://youtube.com/shorts/jxhw0d7C8PU) 
 
-***告訴你的學生換個職業吧,這場無意義的戰爭，不值得他們寶貴的生命***
+***告訴你的學生換個職業吧,這場無意義的戰爭,不值得他們寶貴的生命***
 [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
 
 
