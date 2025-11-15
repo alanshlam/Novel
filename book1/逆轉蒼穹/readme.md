@@ -52,7 +52,10 @@
 在隨之而來的寂靜中，尚恩吐出了一口他未曾意識到自己一直屏住的氣。他不知道她的名字，但他知道他欠她一條命，以及他學生們的命。在他內心深處，一聲無聲的「謝謝」獻給了這位向他施以憐憫的敵人。憑藉著新生的決心，他集結了他的學生，一同穿越了那條險惡的路，返回己方陣線，那位神秘外交官的記憶已深深烙印在他的腦海中。
 
 
-<img src="../image/chapter1.jpg" width="300"> [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
+[<img src="../image/chapter1.jpg" width="300">](https://youtube.com/shorts/jxhw0d7C8PU) 
+
+***告訴你的學生換個職業吧,這場無意義的戰爭，不值得他們寶貴的生命***
+[sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
 
 
 ---
@@ -89,6 +92,9 @@
 最終，他們離開了死亡走廊。最後一個威脅圖標從他的屏幕上消失。他脫離編隊，飛機翻正，打破了隊形。露比的運輸機安全了，一條直達邊境的乾淨航線。當她的飛機加速離去時，她將一隻手按在冰冷的窗玻璃上，心中充滿了無聲的感謝，以及一個將會縈繞她心頭的問題：在一個沒有戰爭的世界裡，他們之間，本可以是什麼？
 
 
-<img src="../image/chapter2.png" width="300"> [sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
+[<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
+
+***「不要開火！」她對機組人員下令。「讓他靠近。***
+[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 
