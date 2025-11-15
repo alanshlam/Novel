@@ -55,7 +55,7 @@
 [<img src="../image/chapter1.jpg" width="300">](https://youtube.com/shorts/jxhw0d7C8PU) 
 
 ***告訴你的學生換個職業吧,這場無意義的戰爭,不值得他們寶貴的生命***
-[sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
+[示範影片](https://youtube.com/shorts/jxhw0d7C8PU)
 
 
 ---
@@ -95,7 +95,7 @@
 [<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 ***「不要開火！」她對機組人員下令。「讓他靠近」***
-[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
+[示範影片](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 ---
 ## 第三章：搶劫
