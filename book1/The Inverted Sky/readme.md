@@ -83,3 +83,9 @@ Finally, they left the "Dead Man's Corridor". The last threat icon vanished from
 [<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 ***Do not fire!" she commanded her crew. "Let him approach."***[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
+
+---
+
+## Chapter 3: Loot
+
+Coming ....
