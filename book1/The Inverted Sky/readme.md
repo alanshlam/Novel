@@ -5,7 +5,7 @@
 ### Ruby Vance 
 <img src=../image/ruby.png width="100"> **Archetype:** The Idealist in a Cynical World
 
-Born into a dynasty of diplomats, Ruby was groomed from birth to navigate the intricate dance of international politics. On the surface, she is the perfect envoy: impeccably educated, fiercely intelligent, and possessing a tough, analytical mind that can dissect any political problem. Her appearance—short blonde hair and sharp, tailored suits—projects an aura of no-nonsense capability.
+Born into a dynasty of diplomats, Ruby was groomed from birth to navigate the intricate dance of international politics. On the surface, she is the perfect envoy: impeccably educated, fiercely intelligent, and possessing a tough, analytical mind that can dissect any political problem. Her appearance —- short blonde hair and sharp, tailored suits—projects an aura of no-nonsense capability.
 
 Beneath this polished exterior, however, lies a deep-seated conflict. She sees the fervent patriotism preached by her leaders for what it is—a convenient shelter for greed and ambition. This has caused her to grow weary of her own country's relentless warmongering, leaving her caught between a nominal duty to her nation and the urgent pull of her conscience. This has fostered a profound, well-guarded empathy for the people caught in the crossfire of conflicts she is sent to manage. While her influence is limited, she skillfully uses every tool at her disposal—her intellect, her family name, and her sheer force of will—to mitigate damage and protect lives, all while wrestling with the moral compromises her position demands.
 
