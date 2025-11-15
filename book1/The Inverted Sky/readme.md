@@ -5,34 +5,16 @@
 ### Ruby Vance 
 <img src=../image/ruby.png width="100"> **Archetype:** The Idealist in a Cynical World
 
-Born into a dynasty of diplomats, Ruby was groomed from birth to navigate the intricate dance of international politics.
- On the surface, she is the perfect envoy: impeccably educated, fiercely intelligent, and possessing a tough, analytical
- mind that can dissect any political problem. Her appearance—short blonde hair and sharp, tailored suits—projects an aur
-a of no-nonsense capability.
+Born into a dynasty of diplomats, Ruby was groomed from birth to navigate the intricate dance of international politics. On the surface, she is the perfect envoy: impeccably educated, fiercely intelligent, and possessing a tough, analytical mind that can dissect any political problem. Her appearance—short blonde hair and sharp, tailored suits—projects an aura of no-nonsense capability.
 
-Beneath this polished exterior, however, lies a deep-seated conflict. She sees the fervent patriotism preached by her le
-aders for what it is—a convenient shelter for greed and ambition. This has caused her to grow weary of her own country's
- relentless warmongering, leaving her caught between a nominal duty to her nation and the urgent pull of her conscience.
- This has fostered a profound, well-guarded empathy for the people caught in the crossfire of conflicts she is sent to m
-anage. While her influence is limited, she skillfully uses every tool at her disposal—her intellect, her family name, an
-d her sheer force of will—to mitigate damage and protect lives, all while wrestling with the moral compromises her posit
-ion demands.
+Beneath this polished exterior, however, lies a deep-seated conflict. She sees the fervent patriotism preached by her leaders for what it is—a convenient shelter for greed and ambition. This has caused her to grow weary of her own country's relentless warmongering, leaving her caught between a nominal duty to her nation and the urgent pull of her conscience. This has fostered a profound, well-guarded empathy for the people caught in the crossfire of conflicts she is sent to manage. While her influence is limited, she skillfully uses every tool at her disposal—her intellect, her family name, and her sheer force of will—to mitigate damage and protect lives, all while wrestling with the moral compromises her position demands.
 
 ### Sean Walker
 <img src=../image/sean.png width="100"> **Archetype:** The Survivor with a Conscience
 
-Sean is a product of the harsh realities of his world. Sent to a military academy at a young age not for glory but for s
-urvival, he learned early on that institutions are often corrupt and that authority is not to be trusted. His intelligen
-ce is not academic but adaptive and razor-sharp, honed by years of observing and navigating the "dirty politics" and inj
-ustices of a system designed to break men like him.
+Sean is a product of the harsh realities of his world. Sent to a military academy at a young age not for glory but for survival, he learned early on that institutions are often corrupt and that authority is not to be trusted. His intelligence is not academic but adaptive and razor-sharp, honed by years of observing and navigating the "dirty politics" and injustices of a system designed to break men like him.
 
-He carries himself with a lean, watchful intensity, his eyes holding the weary look of someone who has seen too much. He
- views the nationalistic propaganda that fuels the war with a profound cynicism, recognizing it as a tool the authoritie
-s use to manipulate the populace and justify their actions. Sean is a master at playing the game; he understands the rul
-es of the powerful and knows how to bend them to survive. However, this cynicism is at constant war with a stubborn, uny
-ielding conscience. He despises the system he is a part of and refuses to become one of the predators he sees in positio
-ns of power. His graduation to Second Lieutenant is not a triumph, but a deeper entanglement in a life he never chose, f
-orcing him to constantly seek a path where he can be effective without sacrificing his soul.
+He carries himself with a lean, watchful intensity, his eyes holding the weary look of someone who has seen too much. He views the nationalistic propaganda that fuels the war with a profound cynicism, recognizing it as a tool the authorities use to manipulate the populace and justify their actions. Sean is a master at playing the game; he understands the rules of the powerful and knows how to bend them to survive. However, this cynicism is at constant war with a stubborn, unyielding conscience. He despises the system he is a part of and refuses to become one of the predators he sees in positions of power. His graduation to Second Lieutenant is not a triumph, but a deeper entanglement in a life he never chose, forcing him to constantly seek a path where he can be effective without sacrificing his soul.
 
 --- 
 ## Chapter 1: Acquaintance
