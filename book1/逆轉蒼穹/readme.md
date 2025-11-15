@@ -94,7 +94,7 @@
 
 [<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
 
-***「不要開火！」她對機組人員下令。「讓他靠近。***
+***「不要開火！」她對機組人員下令。「讓他靠近」***
 [sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 
