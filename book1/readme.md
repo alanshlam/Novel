@@ -29,6 +29,8 @@ Upon his return to the Caspian Combine, Sean must first navigate a dangerous deb
 ## Introduction for [Chapter 10: Infiltration](./The%20Inverted%20Sky/ch/ch10.md)
 Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his captured team. This marks his final  break with the Combine's cynical system. He begins a new, personal war—a one-man infiltration operation to locate his comrades and prepare for a rescue that no one will authorize and no one will support.
 
+## Introduction for Chapter 11: Penetration
+Now deep undercover as a refugee technician, Sean must navigate the treacherous social and digital landscape of a Federation intelligence campus. He methodically builds his access, befriending a series of unwitting accomplices and exploiting security flaws to clone credentials and plant backdoors, moving ever closer to the critical intelligence he needs to locate and save his team.
 
 
 --- 
@@ -63,6 +65,6 @@ Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his 
 ## [第十章:滲透](./逆轉蒼穹/ch/ch10_TW.md)引言 (Introduction for Chapter 10)
 孤身負傷、身陷敵後，尚恩立下誓言：他絕不拋棄被俘的團隊。這標誌著他與共同體那犬儒體制的徹底決裂。他開始了一場全新的個人戰爭——一場單槍匹馬的滲透行動，以找出他同袍的下落，並準備一場無人會授權、也無人會支援的救援。
 
-
-
+## 第十一章: 入侵
+如今，尚恩以難民技術員的身份進行深度臥底，他必須在聯邦情報園區危機四伏的社交與數位環境中穿梭。他有條不紊地建立自己的權限，結交了一系列不知情的幫兇，並利用安全漏洞複製憑證、植入後門，一步步逼近他為定位並拯救其團隊所需的關鍵情報。
 
