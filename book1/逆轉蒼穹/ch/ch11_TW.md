@@ -244,14 +244,15 @@
 「為了那些值得拯救的人，」他低語道，關掉了顯示器，讓房間陷入黑暗。
 
 [<img src="../../image/elena_confess.jpg" width="300">](https://youtube.com/shorts/cE71fjs1VAA)
-[示範影片](https://youtube.com/shorts/cE71fjs1VAA)
-***場景: 艾琳娜的剖白
+[示範影片](https://youtube.com/shorts/cE71fjs1VAA)   
+
+***場景: 艾琳娜的剖白  
 艾琳娜向後靠，用手梳理了一下頭髮。「他教會我規則，但沒教我怎麼應對那些認為規則不適用於他們的人。『客戶』有他們自己的頻道，自己的特權。如果你抱怨，你就會被邊緣化。」她給了他一個小小的、疲憊的微笑。「你很好聊，薩米爾。不像其他人。」***
 
 [<img src="../../image/ch11-02.jpg" width="300">](https://youtube.com/shorts/t4AWA5HqRRA)
-[示範影片](https://youtube.com/shorts/t4AWA5HqRRA)
+[示範影片](https://youtube.com/shorts/t4AWA5HqRRA)   
 
-***場景: 全息藍圖
+***場景: 全息藍圖   
 首先，他拿到了樓層平面圖。一名FIA三級分析師不小心快取了拘留區地下三層的完整設計圖。尚恩在黑暗中用手指追蹤著全息線條。「通風口在這裡，」他喃喃自語，「一條直接通往該翼的維修通道。一個完全的盲點。」***
 
 ---
