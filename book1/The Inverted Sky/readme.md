@@ -56,18 +56,11 @@ A stern, overworked, 63-year-old civilian logistics supervisor for NorthStar Ser
 
 **Tomas Ruiz (Meridian Federation)**  
 <img src=../image/Tomas_.png width="100">   
-A mid-level IT technician for NorthStar Services, Tomas is a burned-out and cynical "colony kid" who resents the Fed
-eration bureaucracy and the privileged FIA personnel he services. His frustration and disillusionment make him an id
-eal first contact for Sean, who easily earns his trust by fixing his technical problems and sharing a sense of cynic
-al camaraderie. Tomas unwittingly becomes Sean's first stepping stone to gaining deeper access.
+A mid-level IT technician for NorthStar Services, Tomas is a burned-out and cynical "colony kid" who resents the Federation bureaucracy and the privileged FIA personnel he services. His frustration and disillusionment make him an ideal first contact for Sean, who easily earns his trust by fixing his technical problems and sharing a sense of cynical camaraderie. Tomas unwittingly becomes Sean's first stepping stone to gaining deeper access.
 
 **Elena Vasquez (Meridian Federation)**  
 <img src=../image/elena01.png width="100">   
-A sharp, dedicated, but frustrated FIA IT auditor from a family of Federation bureaucrats. Tasked with ensuring comp
-liance between internal FIA systems and third-party vendors, she is caught between her belief in "the rules" and the
- reality of a system where the powerful ignore them. She is intelligent and competent, but her loneliness and profes
-sional frustration make her vulnerable to the sense of partnership and respect offered by "Samir," making her Sean's
- most important, and most guilt-inducing, unwitting accomplice.
+A sharp, dedicated, but frustrated FIA IT auditor from a family of Federation bureaucrats. Tasked with ensuring compliance between internal FIA systems and third-party vendors, she is caught between her belief in "the rules" and the reality of a system where the powerful ignore them. She is intelligent and competent, but her loneliness and professional frustration make her vulnerable to the sense of partnership and respect offered by "Samir," making her Sean's most important, and most guilt-inducing, unwitting accomplice.
 
 
 ---
