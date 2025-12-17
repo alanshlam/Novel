@@ -50,6 +50,25 @@ A high-ranking Sironan official chosen to be the puppet leader of Corvus's "West
 <img src=../image/Valerius.png width="100">  
 A high-ranking and ambitious Sironan general, Valerius is a key player in the conspiracy between Corvus and the rogue Combine faction. He is arrogant, short-tempered, and dangerously overconfident in his own importance. While he is a competent field commander, his ego and explosive anger are significant weaknesses. He views the war and the conspiracy primarily as a means to his own personal advancement and enrichment, making him susceptible to manipulation by anyone who can successfully play on his pride and greed. He is the Sironan officer who captures Sean and is ultimately outwitted by him.
 
+**Klara Denkova (Meridian Federation)**   
+<img src=../image/klara.png width="100">  
+A stern, overworked, 63-year-old civilian logistics supervisor for NorthStar Services, the primary food contractor for the FIA campus. She is pragmatic and resource-focused, responsible for hiring cheap refugee labor to meet her quotas. While not malicious, she embodies the bureaucratic indifference of the corporate structure, seeing refugees like "Samir" as disposable assets to solve her staffing problems. She is Sean's initial entry point into the system.
+
+**Tomas Ruiz (Meridian Federation)**  
+<img src=../image/Tomas_.png width="100">   
+A mid-level IT technician for NorthStar Services, Tomas is a burned-out and cynical "colony kid" who resents the Fed
+eration bureaucracy and the privileged FIA personnel he services. His frustration and disillusionment make him an id
+eal first contact for Sean, who easily earns his trust by fixing his technical problems and sharing a sense of cynic
+al camaraderie. Tomas unwittingly becomes Sean's first stepping stone to gaining deeper access.
+
+**Elena Vasquez (Meridian Federation)**  
+<img src=../image/elena01.png width="100">   
+A sharp, dedicated, but frustrated FIA IT auditor from a family of Federation bureaucrats. Tasked with ensuring comp
+liance between internal FIA systems and third-party vendors, she is caught between her belief in "the rules" and the
+ reality of a system where the powerful ignore them. She is intelligent and competent, but her loneliness and profes
+sional frustration make her vulnerable to the sense of partnership and respect offered by "Samir," making her Sean's
+ most important, and most guilt-inducing, unwitting accomplice.
+
 
 ---
 </details>
