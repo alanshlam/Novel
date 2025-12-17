@@ -243,6 +243,8 @@
 
 「為了那些值得拯救的人，」他低語道，關掉了顯示器，讓房間陷入黑暗。
 
+---
+
 [<img src="../../image/elena_confess.jpg" width="300">](https://youtube.com/shorts/cE71fjs1VAA)
 [示範影片](https://youtube.com/shorts/cE71fjs1VAA)   
 
