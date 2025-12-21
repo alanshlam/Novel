@@ -32,7 +32,7 @@ Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his 
 ## Introduction for [Chapter 11: Penetration](./The%20Inverted%20Sky/ch/ch11.md)
 Now deep undercover as a refugee technician, Sean must navigate the treacherous social and digital landscape of a Federation intelligence campus. He methodically builds his access, befriending a series of unwitting accomplices and exploiting security flaws to clone credentials and plant backdoors, moving ever closer to the critical intelligence he needs to locate and save his team.
 
-## Introduction for [Chapter 12: Hehind The Noble Mission](./The%20Inverted%20Sky/ch/ch12.md)
+## Introduction for [Chapter 12: Behind The Noble Mission](./The%20Inverted%20Sky/ch/ch12.md)
 Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Vance uncovers the horrifying truth behind the mission: a conspiracy of illegal organ harvesting and human cloning that ties her own government to the very evils she has been fighting. The shocking confession forces her to seek out the one person she can trust—a ghost she knows only as "Samir."
 
 --- 
