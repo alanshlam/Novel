@@ -32,7 +32,7 @@ Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his 
 ## Introduction for [Chapter 11: Penetration](./The%20Inverted%20Sky/ch/ch11.md)
 Now deep undercover as a refugee technician, Sean must navigate the treacherous social and digital landscape of a Federation intelligence campus. He methodically builds his access, befriending a series of unwitting accomplices and exploiting security flaws to clone credentials and plant backdoors, moving ever closer to the critical intelligence he needs to locate and save his team.
 
-## Introduction for Chapter 12: Hehind The Noble Mission
+## Introduction for [Chapter 12: Hehind The Noble Mission](./The%20Inverted%20Sky/ch/ch12.md)
 Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Vance uncovers the horrifying truth behind the mission: a conspiracy of illegal organ harvesting and human cloning that ties her own government to the very evils she has been fighting. The shocking confession forces her to seek out the one person she can trust—a ghost she knows only as "Samir."
 
 --- 
@@ -67,9 +67,9 @@ Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Van
 ## [第十章:滲透](./逆轉蒼穹/ch/ch10_TW.md)引言 (Introduction for Chapter 10)
 孤身負傷、身陷敵後，尚恩立下誓言：他絕不拋棄被俘的團隊。這標誌著他與共同體那犬儒體制的徹底決裂。他開始了一場全新的個人戰爭——一場單槍匹馬的滲透行動，以找出他同袍的下落，並準備一場無人會授權、也無人會支援的救援。
 
-## [第十一章: 入侵](./逆轉蒼穹/ch/ch11_TW.md)引言 (Introduction for Chapter 10)
+## [第十一章: 入侵](./逆轉蒼穹/ch/ch11_TW.md)引言 (Introduction for Chapter 11)
 如今，尚恩以難民技術員的身份進行深度臥底，他必須在聯邦情報園區危機四伏的社交與數位環境中穿梭。他有條不紊地建立自己的權限，結交了一系列不知情的幫兇，並利用安全漏洞複製憑證、植入後門，一步步逼近他為定位並拯救其團隊所需的關鍵情報。
 
-## 第十二章:崇高使命的背後 引言 (Introduction for Chapter 12)
+## [第十二章:崇高使命的背後](./逆轉蒼穹/ch/ch12_TW.md) 引言 (Introduction for Chapter 12)
 被派去為一個「人道主義」計畫招募一名被俘的共同體醫生時，露比·萬斯揭開了任務背後那駭人聽聞的真相：一個涉及非法器官摘取和人類複製的陰謀，而這個陰謀竟將她自己的政府與她一直以來所對抗的罪惡聯繫在一起。這段驚人的懺悔迫使她去尋找她唯一能信任的人——一個她只知其名為「薩米爾」的鬼魂。
 
