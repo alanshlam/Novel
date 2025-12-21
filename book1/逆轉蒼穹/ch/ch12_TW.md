@@ -125,7 +125,8 @@
 
 ---
 
-<img src="../../image/ch12-ruby01.png" width="300">  
+<img src="../../image/ch12-ruby01.png" width="300">(https://youtube.com/shorts/lywX3k2S7C0)
+[示範影片](https://youtube.com/shorts/lywX3k2S7C0)     
 
 ***場景:聯合陣線  
 「聯邦正試圖在這裡複製這種罪惡，」露比說，她的聲音此刻因決心而變得冰冷。「我們必須結束它。兩邊都得結束。」
