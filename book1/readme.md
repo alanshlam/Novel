@@ -32,6 +32,8 @@ Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his 
 ## Introduction for [Chapter 11: Penetration](./The%20Inverted%20Sky/ch/ch11.md)
 Now deep undercover as a refugee technician, Sean must navigate the treacherous social and digital landscape of a Federation intelligence campus. He methodically builds his access, befriending a series of unwitting accomplices and exploiting security flaws to clone credentials and plant backdoors, moving ever closer to the critical intelligence he needs to locate and save his team.
 
+## Introduction for Chapter 12: Hehind The Boble Mission
+Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Vance uncovers the horrifying truth behind the mission: a conspiracy of illegal organ harvesting and human cloning that ties her own government to the very evils she has been fighting. The shocking confession forces her to seek out the one person she can trust—a ghost she knows only as "Samir."
 
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
@@ -67,4 +69,7 @@ Now deep undercover as a refugee technician, Sean must navigate the treacherous 
 
 ## [第十一章: 入侵](./逆轉蒼穹/ch/ch11_TW.md)引言 (Introduction for Chapter 10)
 如今，尚恩以難民技術員的身份進行深度臥底，他必須在聯邦情報園區危機四伏的社交與數位環境中穿梭。他有條不紊地建立自己的權限，結交了一系列不知情的幫兇，並利用安全漏洞複製憑證、植入後門，一步步逼近他為定位並拯救其團隊所需的關鍵情報。
+
+## 第十二章:崇高使命的背後 引言 (Introduction for Chapter 12)
+被派去為一個「人道主義」計畫招募一名被俘的共同體醫生時，露比·萬斯揭開了任務背後那駭人聽聞的真相：一個涉及非法器官摘取和人類複製的陰謀，而這個陰謀竟將她自己的政府與她一直以來所對抗的罪惡聯繫在一起。這段驚人的懺悔迫使她去尋找她唯一能信任的人——一個她只知其名為「薩米爾」的鬼魂。
 
