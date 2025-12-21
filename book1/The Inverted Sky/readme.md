@@ -64,11 +64,7 @@ A sharp, dedicated, but frustrated FIA IT auditor from a family of Federation bu
 
 **Dr. Aris Volkov (Caspian Combine)**  
 <img src=../image/Aris.png width="100">
-A brilliant, once-idealistic geneticist and cloning expert from the Caspian Combine. Initially, he founded a secret medical institute with noble intentio
-ns: to use his genius to grow organs and save lives. However, his project was co-opted by corrupt and powerful elements within the Combine, who forced hi
-m—under threat to his family—to perform monstrous acts, including illegal organ harvesting and creating mindless clone "avatars" for political control. W
-racked with guilt and blackmailed into complicity, he is a broken man, a tragic figure who represents the perversion of science by power. His confession
-to Ruby Vance becomes the catalyst that unites her and Sean against the conspiracy. 
+A brilliant, once-idealistic geneticist and cloning expert from the Caspian Combine. Initially, he founded a secret medical institute with noble intentions: to use his genius to grow organs and save lives. However, his project was co-opted by corrupt and powerful elements within the Combine, who forced him—under threat to his family—to perform monstrous acts, including illegal organ harvesting and creating mindless clone "avatars" for political control. Wracked with guilt and lackmailed into complicity, he is a broken man, a tragic figure who represents the perversion of science by power. His confession to Ruby Vance becomes the catalyst that unites her and Sean against the conspiracy. 
 
 ---
 </details>
