@@ -125,7 +125,7 @@
 
 ---
 
-<img src="../../image/ch12-ruby01.png" width="300">(https://youtube.com/shorts/lywX3k2S7C0)
+[<img src="../../image/ch12-ruby01.png" width="300">](https://youtube.com/shorts/lywX3k2S7C0)
 [示範影片](https://youtube.com/shorts/lywX3k2S7C0)     
 
 ***場景:聯合陣線  
