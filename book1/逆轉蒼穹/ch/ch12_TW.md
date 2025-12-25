@@ -134,8 +134,8 @@
 
 ---
 
-[<img src="../../image/ch12-ruby03.png" width="300">](https://youtube.com/shorts/Bz2GTu_YOxg)
-[示範影片](https://youtube.com/shorts/Bz2GTu_YOxg)
+[<img src="../../image/ch12-ruby03.png" width="300">](https://youtube.com/shorts/ObgiVNLAQko)
+[示範影片](https://youtube.com/shorts/ObgiVNLAQko)
 
 
 ***場景: 醫生的懇求   
