@@ -134,6 +134,16 @@
 
 ---
 
+[<img src="../../image/ch12-ruby03.png" width="300">](https://youtube.com/shorts/Bz2GTu_YOxg)
+[示範影片](https://youtube.com/shorts/Bz2GTu_YOxg)
+
+
+***場景: 醫生的懇求   
+他懇求道，「幫幫我。救救我的家人。我從妳的眼神裡看得出來…妳和聯邦裡那些其他的惡魔不一樣。…妳可能是我的救星…」
+「我會盡我所能，」她承諾道，話語感覺如此蒼白無力。***
+
+
+
 [<img src="../../image/ch12-ruby01.png" width="300">](https://youtube.com/shorts/lywX3k2S7C0)
 [示範影片](https://youtube.com/shorts/lywX3k2S7C0)     
 
