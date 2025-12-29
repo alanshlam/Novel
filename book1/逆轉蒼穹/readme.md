@@ -409,11 +409,11 @@
 
 他身邊的一名年輕士兵，臉色因恐懼而蒼白，看著尚恩。「長官？我們現在該怎麼辦？」
 
-[<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/Ws0BLONho1I)
+[<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/m3sNxkp_tNI)
 
 ***「這就是我們的任務嗎？」尚恩終於怒吼，耐心徹底粉碎。「來*掠奪*我們被派來拯救的人民？」
 沃斯終於抬起頭，臉上掛著一絲輕蔑的冷笑。「閉嘴，中尉。否則你連該死的一份都拿不到。」*** 
-[示範影片](https://youtube.com/shorts/Ws0BLONho1I)
+[示範影片](https://youtube.com/shorts/m3sNxkp_tNI)
 
 ---
 ## 第六章：核戰迷霧 
