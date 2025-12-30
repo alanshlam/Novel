@@ -449,7 +449,7 @@ In her heart, Ruby feared that the blind, empty-headed patriotism on both sides 
 
 *Who dropped the bomb?* A kamikaze strike from Erden seemed illogical; their Combine reinforcements were still on the ground. President Rask was not that reckless. Sirona, then? But they were on the verge of capturing the city. A nuclear strike on a prize you are about to win made no tactical sense. Was it a distraction for something else? And the biggest piece of the puzzle, the one that didn't fit: if it wasn't a Federation bomb, *where did it come from?*
 
-As she stared at the wall, lost in thought, her personal datapad chimed. It was a device she kept air-gapped from Ministry networks, for emergencies. An anonymous message had appeared from a heavily encrypted app she hadn't used in months. Her blood ran cold as she read the simple, six-word sentence:
+As she stared at the wall, lost in thought, her personal datapad chimed. It was a device she kept air-gapped from Ministry networks, for emergencies. An anonymous message had appeared from a heavily encrypted app she hadn't used in months. Her blood ran cold as she read the simple, eight-word sentence:
 
 *I still remember your advice to my students.*
 
