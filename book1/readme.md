@@ -35,7 +35,7 @@ Now deep undercover as a refugee technician, Sean must navigate the treacherous 
 ## Introduction for [Chapter 12: Behind The Noble Mission](./The%20Inverted%20Sky/ch/ch12.md)
 Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Vance uncovers the horrifying truth behind the mission: a conspiracy of illegal organ harvesting and human cloning that ties her own government to the very evils she has been fighting. The shocking confession forces her to seek out the one person she can trust—a ghost she knows only as "Samir."
 
-## Introduction for [Chapter 12: The Rescue](./The%20Inverted%20Sky/ch/ch13.md)
+## Introduction for [Chapter 13: The Rescue](./The%20Inverted%20Sky/ch/ch13.md)
 Armed with the horrifying truth and a new, dangerous purpose, Ruby masterfully deceives her own superiors to secure the resources for a rescue she cannot name. At the same time, Sean uses those resources to recruit a deniable mercenary team and executes a brilliant, high-stakes prison break, finally freeing his captured comrades. In the aftermath, they secure a new future for the repentant doctor and deliver a crippling blow to the corrupt powers on both sides of the war.
 
 --- 
