@@ -35,6 +35,9 @@ Now deep undercover as a refugee technician, Sean must navigate the treacherous 
 ## Introduction for [Chapter 12: Behind The Noble Mission](./The%20Inverted%20Sky/ch/ch12.md)
 Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Vance uncovers the horrifying truth behind the mission: a conspiracy of illegal organ harvesting and human cloning that ties her own government to the very evils she has been fighting. The shocking confession forces her to seek out the one person she can trust—a ghost she knows only as "Samir."
 
+## Introduction for [Chapter 12: The Rescue](./The%20Inverted%20Sky/ch/ch13.md)
+Armed with the horrifying truth and a new, dangerous purpose, Ruby masterfully deceives her own superiors to secure the resources for a rescue she cannot name. At the same time, Sean uses those resources to recruit a deniable mercenary team and executes a brilliant, high-stakes prison break, finally freeing his captured comrades. In the aftermath, they secure a new future for the repentant doctor and deliver a crippling blow to the corrupt powers on both sides of the war.
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -73,3 +76,5 @@ Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Van
 ## [第十二章:崇高使命的背後](./逆轉蒼穹/ch/ch12_TW.md) 引言 (Introduction for Chapter 12)
 被派去為一個「人道主義」計畫招募一名被俘的共同體醫生時，露比·萬斯揭開了任務背後那駭人聽聞的真相：一個涉及非法器官摘取和人類複製的陰謀，而這個陰謀竟將她自己的政府與她一直以來所對抗的罪惡聯繫在一起。這段驚人的懺悔迫使她去尋找她唯一能信任的人——一個她只知其名為「薩米爾」的鬼魂。
 
+## [第十三章：救援](./逆轉蒼穹/ch/ch13_TW.md) 引言 (Introduction for Chapter 13)
+在掌握了駭人的真相，並肩負起一項危險的新使命後，露比巧妙地欺騙了自己的上級，獲得了營救所需的資源，但她卻無法透露營救的具體內容。同時，肖恩利用這些資源招募了一支身份不明的傭兵隊伍，並策劃了一場驚心動魄、風險極高的越獄行動，最終解救了被俘的戰友。事後，他們為那位悔改的醫生安排了新的未來，並重創了戰爭雙方的腐敗勢力。
