@@ -77,11 +77,11 @@ A mid-level IT technician for NorthStar Services, Tomas is a burned-out and cyni
 A sharp, dedicated, but frustrated FIA IT auditor from a family of Federation bureaucrats. Tasked with ensuring compliance between internal FIA systems and third-party vendors, she is caught between her belief in "the rules" and the reality of a system where the powerful ignore them. She is intelligent and competent, but her loneliness and professional frustration make her vulnerable to the sense of partnership and respect offered by "Samir," making her Sean's most important, and most guilt-inducing, unwitting accomplice.
 
 **Dr. Aris Volkov (Caspian Combine)**  
-<img src=../image/Aris.png width="100">
+<img src=../image/Aris.png width="100">  
 A brilliant, once-idealistic geneticist and cloning expert from the Caspian Combine. Initially, he founded a secret medical institute with noble intentions: to use his genius to grow organs and save lives. However, his project was co-opted by corrupt and powerful elements within the Combine, who forced him—under threat to his family—to perform monstrous acts, including illegal organ harvesting and creating mindless clone "avatars" for political control. Wracked with guilt and lackmailed into complicity, he is a broken man, a tragic figure who represents the perversion of science by power. His confession to Ruby Vance becomes the catalyst that unites her and Sean against the conspiracy. 
 
 **Colonel Denis Volkov (Caspian Combine)**  
-<img src=../image/mole01.png width="100">
+<img src=../image/mole01.png width="100">  
 A desperate father and a conflicted officer, Colonel Volkov serves as the deputy operations officer for the mission to rescue his own brother, Dr. Aris Volkov. Driven by the hope of saving his critically ill eight-year-old daughter, who was denied a life-saving transplant by the Combine's amoral elite, he becomes a mole for the Meridian Federation. He leverages his position to sabotage the rescue missions, feeding intelligence to the enemy to ensure his brother remains in their custody. His treason is not for personal gain but for a chance at a miracle, making him a tragic figure who sacrifices his honor and his comrades for the love of his child.
 
 ---
