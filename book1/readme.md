@@ -38,6 +38,9 @@ Sent to recruit a captured Combine doctor for a "humanitarian" project, Ruby Van
 ## Introduction for [Chapter 13: The Rescue](./The%20Inverted%20Sky/ch/ch13.md)
 Armed with the horrifying truth and a new, dangerous purpose, Ruby masterfully deceives her own superiors to secure the resources for a rescue she cannot name. At the same time, Sean uses those resources to recruit a deniable mercenary team and executes a brilliant, high-stakes prison break, finally freeing his captured comrades. In the aftermath, they secure a new future for the repentant doctor and deliver a crippling blow to the corrupt powers on both sides of the war.
 
+## Introduction for [Chapter 14: Spy Game](./The%20Inverted%20Sky/ch/ch14.md)
+To bury the truth of their secret alliance, Sean and Ruby must each craft the most audacious lies of their careers, spinning tales of betrayal and sabotage to deceive their own commands. Their reward for this masterful deception is an unexpected promotion that places them on a collision course. Now, as rival diplomats in the glittering neutral territory of Cygnus, they come face-to-face once more. Amid a high-stakes peace conference, a clandestine meeting on a moonlit balcony will determine if their fragile trust can survive their new roles—or if the spy game they have mastered will finally tear them apart.
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -78,4 +81,7 @@ Armed with the horrifying truth and a new, dangerous purpose, Ruby masterfully d
 
 ## [第十三章：救援](./逆轉蒼穹/ch/ch13_TW.md) 引言 (Introduction for Chapter 13)
 帶著駭人真相和全新而危險的使命，露比巧妙地欺騙上級，為一場她無法言明的營救任務爭取資源。與此同時，尚恩利用這些資源招募了一支可否認的傭兵小隊，執行了一場精彩紛呈、風險極高的越獄行動，最終成功解救了他被俘的戰友。行動過後，他們不僅為悔改的醫生確保了新的未來，也對戰爭雙方的腐敗勢力造成了沉重打擊。
+
+## [第十三章：間諜遊戲](./逆轉蒼穹/ch/ch14_TW.md) 引言 (Introduction for Chapter 14)
+為了埋葬他們秘密同盟的真相，尚恩與露比必須各自編造他們職業生涯中最膽大包天的謊言，紡織出背叛與破壞的故事來欺騙各自的司令部。他們這場高明騙局的回報，是一次意想不到的晉升，卻也將他們置於一條碰撞的軌道上。如今，作為在璀璨的中立領土天鵝座的敵對外交官，他們再次面對面。在一場高風險的和平會議中，一次月光下陽台上的秘密會晤，將決定他們脆弱的信任能否在他們的新角色中倖存——又或者，他們所精通的間諜遊戲，終將把他們撕裂。
 
