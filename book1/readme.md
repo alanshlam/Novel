@@ -41,6 +41,10 @@ Armed with the horrifying truth and a new, dangerous purpose, Ruby masterfully d
 ## Introduction for [Chapter 14: Spy Game](./The%20Inverted%20Sky/ch/ch14.md)
 To bury the truth of their secret alliance, Sean and Ruby must each craft the most audacious lies of their careers, spinning tales of betrayal and sabotage to deceive their own commands. Their reward for this masterful deception is an unexpected promotion that places them on a collision course. Now, as rival diplomats in the glittering neutral territory of Cygnus, they come face-to-face once more. Amid a high-stakes peace conference, a clandestine meeting on a moonlit balcony will determine if their fragile trust can survive their new roles—or if the spy game they have mastered will finally tear them apart.
 
+## Introduction for [Chapter 15:The Cygnus Gambit ](./The%20Inverted%20Sky/ch/ch15.md)
+In the glittering diplomatic paradise of Cygnus, Sean and Ruby begin their new lives as spies in plain sight. But the illusion of peace shatters when they independently stumble upon the same ghost: a conspiracy by rogue elements from both their governments to reassemble neutron bombs for a devastating false-flag attack. Before they can warn each other, a sophisticated digital trap snaps shut, linking them as coconspirators and marking them both for elimination. Hunted and with their channels compromised, a desperate rooftop escape forces them into an overloaded flight suit. When it malfunctions, they are locked in an inescapable intimacy, where a bio-feedback system exposes the truths their hearts can no longer hide. Trapped between a closing net and a forced confession, their secret alliance will either be forged into something deeper or be shattered forever.
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -84,4 +88,10 @@ To bury the truth of their secret alliance, Sean and Ruby must each craft the mo
 
 ## [第十四章：間諜遊戲](./逆轉蒼穹/ch/ch14_TW.md) 引言 (Introduction for Chapter 14)
 為了埋葬他們秘密同盟的真相，尚恩與露比必須各自編造他們職業生涯中最膽大包天的謊言，紡織出背叛與破壞的故事來欺騙各自的司令部。他們這場高明騙局的回報，是一次意想不到的晉升，卻也將他們置於一條碰撞的軌道上。如今，作為在璀璨的中立領土天鵝座的敵對外交官，他們再次面對面。在一場高風險的和平會議中，一次月光下陽台上的秘密會晤，將決定他們脆弱的信任能否在他們的新角色中倖存——又或者，他們所精通的間諜遊戲，終將把他們撕裂。
+
+## [第十五章：間諜遊戲](./逆轉蒼穹/ch/ch15_TW.md) 引言 (Introduction for Chapter 15)
+在璀璨的外交天堂天鵝座，尚恩與露比開始了他們作為檯面上間諜的新生活。但和平的幻象因他們各自偶然發現了同一個鬼魂而破碎：一個由兩國政府的流氓份子所策劃的陰謀，意圖重新組裝中子彈以發動一場毀滅性的假旗攻擊。在他們能互相警告之前，一個精密的數位陷阱已然闔上，將他們標記為共謀者，並指定消滅。在被追獵且頻道遭洩的情況下，一場絕望的屋頂逃亡迫使他們擠進一套超載的飛行服。當飛行服發生故障，他們被鎖在一種無法逃避的親密之中，而生物反饋系統則揭露了他們內心再也無法隱藏的真相。被困在收攏的羅網與被迫的坦白之間，他們秘密的同盟若非被鍛造成更深厚的關係，便將永遠破碎。
+
+
+
 
