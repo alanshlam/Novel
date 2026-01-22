@@ -615,7 +615,7 @@ As he was being bound, Sean locked eyes with the Sironan officer in charge. It w
 
 ## Chapter 8: A Game of Minds 
 
-Sean was shoved into an opulent field office. A Sironan general sat behind a large desk, calmly finishing his lunch. He didn't look up, merely spearing a piece of meat with his fork before fixing Sean with cold, dismissive eyes. "I'm told you have something for me," the general said, his voice flat.
+Sean was shoved into an opulent field office. A Sironan General Valerius  sat behind a large desk, calmly finishing his lunch. He didn't look up, merely spearing a piece of meat with his fork before fixing Sean with cold, dismissive eyes. "I'm told you have something for me," the general said, his voice flat.
 
 Sean’s heart was hammering, but he forced his expression into a mask of calm arrogance. This was a performance, and his life depended on it.
 
