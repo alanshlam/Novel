@@ -85,8 +85,8 @@ A brilliant, once-idealistic geneticist and cloning expert from the Caspian Comb
 A desperate father and a conflicted officer, Colonel Volkov serves as the deputy operations officer for the mission to rescue his own brother, Dr. Aris Volkov. Driven by the hope of saving his critically ill eight-year-old daughter, who was denied a life-saving transplant by the Combine's amoral elite, he becomes a mole for the Meridian Federation. He leverages his position to sabotage the rescue missions, feeding intelligence to the enemy to ensure his brother remains in their custody. His treason is not for personal gain but for a chance at a miracle, making him a tragic figure who sacrifices his honor and his comrades for the love of his child.
 
 
-**Mira Kane (Meridian Federation)**
-<img src=../image/mira07.png width="100">
+**Mira Kane (Meridian Federation)**  
+<img src=../image/mira07.png width="100">  
 In the labyrinth of Federation diplomacy, Mira Kane lurks as a shadow in the corridors of power—a sharp-witted Deputy Envoy whose efficiency masks a simmering undercurrent of ambition and enigma. Her barbs are precise, her knowledge of rivals' "family skeletons" unnervingly intimate, as if she holds keys to locked doors long forgotten. Yet beneath the polished facade lies a puzzle: a woman forged in the fringes of outposts, her rise staled by invisible barriers, fueling a resentment that whispers of deeper wounds. What drives her calculated maneuvers—mere professional envy, or a vendetta woven from threads of a hidden past?
 
 ---
