@@ -151,8 +151,8 @@
 ---
 
  
-[<img src="../../image/mira_vent.png" width="300">](https://youtube.com/shorts/g6E4mwEVotc)  
-[示範影片](https://youtube.com/shorts/g6E4mwEVotc)  
+[<img src="../../image/mira_vent.png" width="300">](https://youtube.com/shorts/AntEzoIPqZA)  
+[示範影片](https://youtube.com/shorts/AntEzoIPqZA)  
   
 
 ***場景: 米拉的發洩   
