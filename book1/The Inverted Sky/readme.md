@@ -345,6 +345,23 @@ The democratically elected President of the Republic of Erden. A strong, resilie
 ---
 </details>
 
+<details>
+<summary> Facts of Neutron Bomb</summary>
+
+- Neutron Bomb (Enhanced Radiation Weapon): A nuclear bomb that kills via high neutron radiation while minimizing blast/thermal damage to structures.   
+
+- Safe Distance for Explosion: For a 1-kt yield, lethal radiation reaches 1.4 km outdoors; blast damage to 600 m; burns to 500 m. Safe viewing: 3-5 km+.   
+
+- Re-Entry Time to Blast Site at Safe Radiation Levels: Radiation decays quickly; re-entry often safe in hours to 48 hours (below 0.1 Gy/hour).   
+
+- Radiation Effects: Causes acute syndrome (nausea at 1 Gy+); long-term cancer risk, but minimal lingering fallout.   
+
+- Blast and Thermal Radius: For 1 kt, building damage to 600 m; burns to 500 m. Scales with yield; preserves infrastructure.   
+
+
+---
+</details>
+
 
 President-Marshal Corvus promised his people a swift and glorious victory. The invasion of Erden was meant to last a month. It had now bled for more than a year.
 
