@@ -10,7 +10,7 @@
 
 </details>
 <details>
-<summary>註</summary>
+<summary>面紗協議說明</summary>
 
 **面紗協議（聯邦黑色行動保障）**  
 針對陷入危險的特工的機密緊急措施： 
