@@ -52,6 +52,11 @@ With Ruby captured and used as leverage, Sean is forced into a desperate psychol
 ## Introduction for [Chapter 17: Veiled Legacies](./The%20Inverted%20Sky/ch/ch17.md)
 In the glittering neutrality of Cygnus, where diplomats danced on the edge of shadows and alliances frayed like worn veils, Ruby Vance felt the noose tighten around her throat. Whispers of sabotage slithered through the embassy halls—forged accounts blooming in the dark, anonymous tips slicing like hidden blades, a rival's barbs sharpening into something lethal. What started as office envy now pulsed with a deeper malice, secrets clawing from forgotten outposts, threatening to expose not just her career, but the fragile veins of family and legacy she never knew were poisoned. Who was pulling the strings—and how far would they go before the truth strangled her?
 
+## Introduction for [Chapter 18: Honey Trap](./The%20Inverted%20Sky/ch/ch18.md)
+An Erden diplomat’s suicide leaves behind a cryptic note and a ghost: a deadly honey trap agent known only as "Aria," who targets the lonely and extracts secrets through intimacy. Tasked by President Rask to hunt this phantom and assess the damage, Sean decides he cannot just be the hunter; he must also become the prey. Walking willingly into Aria's snare, Sean initiates a tense psychological duel of seduction and disinformation, with Ruby providing real-time analysis from the shadows. As they deconstruct the anatomy of this cruel weapon, they are forced to confront a chilling truth: the espionage machine doesn't just steal state secrets; it devours human souls. In a game where desire is leverage and trust is a trap, they must question whether their own hard-won bond is their greatest strength or their most dangerous, fatal flaw.
+
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -104,6 +109,10 @@ In the glittering neutrality of Cygnus, where diplomats danced on the edge of sh
 
 ## [第十七章：隱秘的遺產](./逆轉蒼穹/ch/ch17_TW.md) 引言 (Introduction for Chapter 17) 
 在天鵝座閃耀的中立中，外交官在陰影邊緣舞動，聯盟如同磨損的面紗般破碎，露比·范斯感覺絞索緊緊勒住她的喉嚨。破壞的耳語在大使館走廊中蔓延——偽造帳號在黑暗中綻放，匿名線索如隱藏的刀刃般割裂，對手的刺逐漸鋒利成致命之物。起初是辦公室的嫉妒，現在卻帶著更深的惡意脈動，秘密從被遺忘的前哨站爬出，威脅著不僅暴露她的事業，還有她從未察覺的家族與傳承脆弱的血脈。誰在操控一切——他們會在真相扼殺她之前走多遠？
+
+## [第十八章：美人計](./逆轉蒼穹/ch/ch18_TW.md) 引言 (Introduction for Chapter 18) 
+一名埃爾登外交官的自殺留下了一張神秘的便條和一個鬼魂：一個只知其名為「艾莉亞」的致命美人計特工，她專門針對孤獨者，並透過親密關係來榨取秘密。受拉斯克總統之命追獵這個魅影並評估損害，尚恩決定他不能只當獵人；他也必須成為獵物。尚恩心甘情願地走進艾莉亞的圈套，展開一場充滿誘惑與假情報的緊張心理決鬥，而露比則從暗處提供即時分析。當他們剖析這個殘酷武器的構造時，他們被迫面對一個令人不寒而栗的真相：間諜機器不只竊取國家機密；它吞噬人類的靈魂。在一場慾望即籌碼、信任即陷阱的遊戲中，他們必須質問自己，他們那得來不易的連結，究竟是他們最大的力量，還是最危險、最致命的弱點。
+
 
 
 
