@@ -238,8 +238,8 @@
 
 ---   
 
-[<img src="../../image/Aria_v01.png" width="300">](https://youtube.com/shorts/s73PUgV4e4E)  
-[示範影片](https://youtube.com/shorts/s73PUgV4e4E)  
+[<img src="../../image/Aria_v01.png" width="300">](https://youtube.com/shorts/__Wi0gFbPI4)  
+[示範影片](https://youtube.com/shorts/__Wi0gFbPI4)  
   
 
 ***場景: 艾莉亞的誘惑  
