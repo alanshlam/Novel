@@ -89,6 +89,11 @@ A desperate father and a conflicted officer, Colonel Volkov serves as the deputy
 <img src=../image/mira07.png width="100">  
 In the labyrinth of Federation diplomacy, Mira Kane lurks as a shadow in the corridors of power—a sharp-witted Deputy Envoy whose efficiency masks a simmering undercurrent of ambition and enigma. Her barbs are precise, her knowledge of rivals' "family skeletons" unnervingly intimate, as if she holds keys to locked doors long forgotten. Yet beneath the polished facade lies a puzzle: a woman forged in the fringes of outposts, her rise staled by invisible barriers, fueling a resentment that whispers of deeper wounds. What drives her calculated maneuvers—mere professional envy, or a vendetta woven from threads of a hidden past?
 
+**Aria Rodriguez (Republic of Cygnus)**
+<img src=../image/Aria01.png width="100">
+Aria Rodriguez, a mid-20s postgraduate student at Cygnus University specializing in international relations, serves as a low-level operative or asset for a shadowy "deep state " network, using her role in organizing cultural exchange events as cover for espionage. With a peaches-and-cream complexion, angelic features—wide doe eyes, full lips—and a curvaceous, athletic figure, she wields a calculated allure, blending youthful innocence with seductive confidence to disarm targets through flattery, probing questions, and intimate traps. Sharp-witted and adaptable, she mirrors desires to exploit ego and loneliness, but her overconfidence and possible internal burnout from repeated manipulations add nuance, portraying her as both perpetrator and potential victim in a corrupt system. Motivated by survival and ambition—perhaps rooted in a displaced upbringing—she fixates on high-value intel like Volkov's location, employing psychological erosion over brute force, embodying the espionage machine's exploitation of human vulnerabilities without falling into one-dimensional femme fatale tropes.
+
+
 ---
 </details>
 
