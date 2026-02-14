@@ -264,6 +264,13 @@
 
 ---   
 
+[<img src="../../image/Aria_i04.png" width="300">](https://youtube.com/shorts/ZqaIr_il-CU)  
+[Sample Video](https://youtube.com/shorts/ZqaIr_il-CU)  
+
+***場景：艾莉亞的邀請
+她帶著嫵媚的笑容，湊近。 「我訂了樓上的房間做專案。這樣環境更安靜，適合我們…私下討論？」***
+
+
 [<img src="../../image/Aria_v01.png" width="300">](https://youtube.com/shorts/__Wi0gFbPI4)  
 [示範影片](https://youtube.com/shorts/__Wi0gFbPI4)  
   
