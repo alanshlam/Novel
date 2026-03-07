@@ -78,8 +78,8 @@
 ---
 
  
-[<img src="../../image/aria_grief.png" width="300">](https://youtube.com/shorts/s73PUgV4e4E)  
-[示範影片](https://youtube.com/shorts/s73PUgV4e4E)  
+[<img src="../../image/aria_grief.png" width="300">](https://youtube.com/shorts/hve96FVj0N4)  
+[示範影片](https://youtube.com/shorts/hve96FVj0N4)  
   
 
 ***場景: 孤兒的悲傷
