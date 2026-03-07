@@ -93,6 +93,9 @@ In the labyrinth of Federation diplomacy, Mira Kane lurks as a shadow in the cor
 <img src=../image/Aria01.png width="100">  
 Aria Rodriguez, a mid-20s postgraduate student at Cygnus University specializing in international relations, serves as a low-level operative or asset for a shadowy "deep state " network, using her role in organizing cultural exchange events as cover for espionage. With a peaches-and-cream complexion, angelic features—wide doe eyes, full lips—and a curvaceous, athletic figure, she wields a calculated allure, blending youthful innocence with seductive confidence to disarm targets through flattery, probing questions, and intimate traps. Sharp-witted and adaptable, she mirrors desires to exploit ego and loneliness, but her overconfidence and possible internal burnout from repeated manipulations add nuance, portraying her as both perpetrator and potential victim in a corrupt system. Motivated by survival and ambition—perhaps rooted in a displaced upbringing—she fixates on high-value intel like Volkov's location, employing psychological erosion over brute force, embodying the espionage machine's exploitation of human vulnerabilities without falling into one-dimensional femme fatale tropes.
 
+**Victor Stark (Cygnus Deep-State Broker)**
+<img src=../../image/victor_stark.png width="100">
+A mid-40s financier and "philanthropist" operating in Cygnus's neutral shadows, Victor is the architect of a web of influence peddling and kompromat. With a facade of charm masking his own haunted rise from galactic fringes, he brokers deals for cross-factional elites, using luxury fronts like orbital villas and cultural nonprofits to recruit and deploy assets like Aria. His operations expose the corrupted underbelly of interstellar diplomacy, where trauma is commodified into leverage.
 
 ---
 </details>
