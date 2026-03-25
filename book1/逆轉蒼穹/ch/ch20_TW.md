@@ -515,7 +515,7 @@
 露比紋絲不動，像一位將軍在審視被征服的戰場。「你整個檔案庫都已被提取並鏡像到一個安全的聯邦伺服器，而你本地的備份已被加密。沒有了那些檔案，史塔克先生，每一個你曾經勒索過的受害者都會突然意識到，你不再握有韁繩。他們會來找你。所有人。同時。」***
 
 
-[<img src="../../image/Lena01.png" width="300">](https://youtu.be/tl5p_nGAA0M4)  
+[<img src="../../image/Lena_hug03.png" width="300">](https://youtu.be/tl5p_nGAA0M4)  
 [示範影片](https://youtu.be/tl5p_nGAA0M4)  
   
 
