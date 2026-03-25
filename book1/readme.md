@@ -58,6 +58,10 @@ An Erden diplomat’s suicide leaves behind a cryptic note and a ghost: a deadly
 ## Introduction for [Chapter 19: Fractured Allure](./The%20Inverted%20Sky/ch/ch19.md)
 Every weapon has an origin story, a moment where the iron is drawn from the earth and thrust into the fire. We see the polished blade—the seductive smile, the calculated touch, the flawless execution of a trap—but we rarely witness the forging. Long before Aria Rodriguez was the phantom haunting Ethan Hale’s final hours, before she was a ghost deployed by Cygnus's deepstate, she was just a girl on the Epsilon Fringe screaming into the void. To understand the monster that broke the envoy, one must first descend into the dark, crushing machinery that created her.
 
+## Introduction for [Chapter 20: The Island of Broken Mirrors](./The%20Inverted%20Sky/ch/ch20.md)
+There is a lethal beauty to a perfect lie. On the surface, Victor Stark’s island estate was a masterpiece of engineered paradise—a sanctuary where the galaxy’s elite came to indulge their darkest desires behind a veil of flawless luxury. Every shimmering aurora, every whispering coral spire, was meticulously designed to lull the senses and extract the truth. It was a gilded cage built to break the unbreakable. But tonight, the rules of the game were about to change. Captain Sean Walker had arrived to shatter the illusion, armed with nothing but a desperate plan, a microscopic digital ghost, and the silent backing of Ambassador Ruby Vance. If they succeeded, the deepest secrets of the galaxy would bleed into the light. If they failed, the island would simply swallow them whole, just as it had swallowed so many ghosts before them.
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -114,9 +118,11 @@ Every weapon has an origin story, a moment where the iron is drawn from the eart
 ## [第十八章：美人計](./逆轉蒼穹/ch/ch18_TW.md) 引言 (Introduction for Chapter 18) 
 一名埃爾登外交官的自殺留下了一張神秘的便條和一個鬼魂：一個只知其名為「艾莉亞」的致命美人計特工，她專門針對孤獨者，並透過親密關係來榨取秘密。受拉斯克總統之命追獵這個魅影並評估損害，尚恩決定他不能只當獵人；他也必須成為獵物。尚恩心甘情願地走進艾莉亞的圈套，展開一場充滿誘惑與假情報的緊張心理決鬥，而露比則從暗處提供即時分析。當他們剖析這個殘酷武器的構造時，他們被迫面對一個令人不寒而栗的真相：間諜機器不只竊取國家機密；它吞噬人類的靈魂。在一場慾望即籌碼、信任即陷阱的遊戲中，他們必須質問自己，他們那得來不易的連結，究竟是他們最大的力量，還是最危險、最致命的弱點。
 
-## [第十八章: 破碎的魅惑](./逆轉蒼穹/ch/ch19_TW.md) 引言 (Introduction for Chapter 19)
-
+## [第十九章: 破碎的魅惑](./逆轉蒼穹/ch/ch19_TW.md) 引言 (Introduction for Chapter 19)
 每一件兵器都有其起源，一段生鐵從厚土中被掘出、繼而投入烈火中淬鍊的時刻。我們眼中所見的，往往只是那柄寒光四射的利刃——那誘人的微笑、精心算計的觸碰，以及對陷阱的完美執行——卻鮮少有人能親眼目睹它的鍛造過程。早在艾莉亞·羅德里格斯成為糾纏伊森·海爾臨終時刻的夢魘之前，在她成為天鵝座深層政府麾下的幽靈特工之前，她僅僅是艾普西龍邊境一個對著虛空絕望嘶吼的女孩。若想理解那個摧毀使節的「怪物，就必須先深入探究那台將她親手鑄就、黑暗且殘酷的毀滅機器。
+
+## [第二十章: 破碎的魅惑](./逆轉蒼穹/ch/ch20_TW.md) 引言 (Introduction for Chapter 20)
+一個完美的謊言，往往帶著致命的殘酷之美。表面上，維克多·史塔克的島嶼莊園是一件經過精密計算的「天堂」傑作——一個讓銀河系精英們在完美無瑕的奢華面紗後，放縱他們最黑暗慾望的避難所。每一道閃爍的極光、每一座低語的珊瑚尖塔，都是為了麻痺感官並榨取真相而精心設計的。這是一個旨在擊垮最堅不可摧之人的鍍金牢籠。但今晚，遊戲規則即將被改寫。尚恩·沃克隊長來到了這裡，準備粉碎這重重幻象；他的武器，只有一個鋌而走險的計畫、一個微觀的數字幽靈，以及露比·萬斯大使在暗中的全力支持。如果他們成功了，銀河系最深層的祕密將在陽光下淌血。如果他們失敗了，這座島嶼會毫不留情地將他們徹底吞噬，就像它曾經吞噬過無數個幽魂那樣。
 
 
 
