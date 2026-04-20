@@ -168,6 +168,7 @@
 ***告訴你的學生換個職業吧,這場無意義的戰爭,不值得他們寶貴的生命***
 [示範影片](https://youtube.com/shorts/jxhw0d7C8PU)
 
+[第1章 主題曲](https://youtube.com/shorts/aL4gF3RlreA)
 
 ---
 ## 第二章：重逢
