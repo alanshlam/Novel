@@ -168,7 +168,7 @@ In the silence that followed, Sean let out a breath he didn't realize he'd been 
 
 ***Tell your students to find another career, this meaningless war isn't worth the price of their lives!*** [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)  
 
-***[Chapter 1 Theme Song 🎵](https://youtube.com/shorts/aL4gF3RlreA)***
+***[Chapter 1 Theme Song 🎵](https://youtu.be/TyqIzmhkiPE)***
 ---
 
 ## Chapter 2: Reunion
