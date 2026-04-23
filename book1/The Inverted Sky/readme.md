@@ -209,6 +209,8 @@ Finally, they left the "Dead Man's Corridor". The last threat icon vanished from
 
 ***Do not fire!" she commanded her crew. "Let him approach."***[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
 
+***[Chapter 2 Theme Song 🎵](https://youtube.com/shorts/OcLSNqwuZPU)***
+
 ---
 # Chapter 3: The Devil's Bargain
 
