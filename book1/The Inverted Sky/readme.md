@@ -251,7 +251,7 @@ She blinked, and a single, hot tear broke free, tracing a path down her cheek. I
 ***"Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"***
 [Sample video](https://youtube.com/shorts/2NIp15Jpvlc)
 
-***[Chapter 2 Theme Song 🎵](https://youtu.be/juL5Pbh_GqE)   
+***[Chapter 2 Theme Song 🎵](https://youtu.be/juL5Pbh_GqE)***  
 
 
 ---
