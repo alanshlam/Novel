@@ -168,7 +168,7 @@ In the silence that followed, Sean let out a breath he didn't realize he'd been 
 
 ***Tell your students to find another career, this meaningless war isn't worth the price of their lives!*** [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)  
 
-***[Chapter 1 Theme Song 🎵](https://youtu.be/TyqIzmhkiPE)***
+***[Chapter 1 Theme Song 🎵](https://youtu.be/XJ0lbBtgyZk)***
 ---
 
 ## Chapter 2: Reunion
@@ -250,6 +250,9 @@ She blinked, and a single, hot tear broke free, tracing a path down her cheek. I
 
 ***"Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"***
 [Sample video](https://youtube.com/shorts/2NIp15Jpvlc)
+
+***[Chapter 2 Theme Song 🎵](https://youtu.be/juL5Pbh_GqE)   
+
 
 ---
 # Chapter 4: The Gambit
