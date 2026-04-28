@@ -332,7 +332,9 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 [<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/7slHHGAvn-k)
 
 ***The less we communicate, the safer we are. I will find you if needed. You can track my status through official Federation media... if I'm still there. Take care. Ruby Vance, out***  
-[sample video](https://youtube.com/shorts/7slHHGAvn-k)
+[sample video](https://youtube.com/shorts/7slHHGAvn-k)  
+
+***[Chapter 4 Theme Song 🎵](https://youtu.be/THjFEWzlY2Y)***  
 
 ---
 ## Chapter 5: Looting
