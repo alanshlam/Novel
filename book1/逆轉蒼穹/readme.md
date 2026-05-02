@@ -162,13 +162,16 @@
 
 在隨之而來的寂靜中，尚恩吐出了一口他未曾意識到自己一直屏住的氣。他不知道她的名字，但他知道他欠她一條命，以及他學生們的命。在他內心深處，一聲無聲的「謝謝」獻給了這位向他施以憐憫的敵人。憑藉著新生的決心，他集結了他的學生，一同穿越了那條險惡的路，返回己方陣線，那位神秘外交官的記憶已深深烙印在他的腦海中。
 
+[<img src="../image/ch1-lcover.png" width="300">](https://youtu.be/qvrpQagyDc0)   
+[第1章 主題曲🎵](https://youtu.be/qvrpQagyDc0)
+
 
 [<img src="../image/chapter1.jpg" width="300">](https://youtube.com/shorts/jxhw0d7C8PU) 
 
 ***告訴你的學生換個職業吧,這場無意義的戰爭,不值得他們寶貴的生命***
 [示範影片](https://youtube.com/shorts/jxhw0d7C8PU)
 
-[第1章 主題曲🎵](https://youtu.be/qvrpQagyDc0)
+
 
 ---
 ## 第二章：重逢
@@ -203,13 +206,16 @@
 
 最終，他們離開了死亡走廊。最後一個威脅圖標從他的屏幕上消失。他脫離編隊，飛機翻正，打破了隊形。露比的運輸機安全了，一條直達邊境的安全航線。當她的飛機加速離去時，她將一隻手按在冰冷的窗玻璃上，心中充滿了無聲的感謝，以及一個將會縈繞她心頭的問題：在一個沒有戰爭的世界裡，他們之間，可以是怎樣？
 
+[<img src="../image/ch2-lcover.png" width="300">](https://youtube.com/shorts/OcLSNqwuZPU)  
+[第2章 主題曲🎵](https://youtube.com/shorts/OcLSNqwuZPU)
+
+
 
 [<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 ***「不要開火！」她對機組人員下令。「讓他靠近」***
 [示範影片](https://youtube.com/shorts/jEdfX7f5Lkw)
 
-[第2章 主題曲🎵](https://youtube.com/shorts/OcLSNqwuZPU)
 
 ---   
 ## 第三章：魔鬼的交易
@@ -242,6 +248,9 @@
 「我會不會變成一個怪物，」她對著自己的倒影低語，「去幫助另一個怪物傷害無辜的人？」
 
 她眨了眨眼，一滴滾燙的淚水滑落，沿著她的臉頰劃下一道軌跡。那不是悲傷的淚水，而是一種可怕的清澈訊息。這個體制要的不是她的專業，而是她的靈魂。
+
+[<img src="../image/ch3-lcover.png" width="400">](https://youtu.be/juL5Pbh_GqE)   
+[第3章 主題曲🎵](https://youtu.be/juL5Pbh_GqE)
 
 [<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/2NIp15Jpvlc)
 
@@ -323,11 +332,16 @@
 
 *露比·萬斯。* 這個名字如今已銘刻在他心中。她的勇敢和在叛國的風險面前堅持良知的堅定決心，深深地打動了他的心。他望向天空，思索著如果當權者中能有更多像她一樣的人——願意為正義賭上一切，這個世界將會是什麼樣子。
 
+[<img src="../image/ch4-lcover.png" width="400">](https://youtu.be/THjFEWzlY2Y)    
+[第4章 主題曲🎵](https://youtu.be/THjFEWzlY2Y)
+
+
 [<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/7slHHGAvn-k)
 
 ***我們溝通得越少，就越安全。如果需要，我會像這次一樣找到你。你可以透過聯邦官方媒體追踪我的狀況……如果我還在的話。保重。露比·萬斯，通訊結束。***   [示範影片](https://youtube.com/shorts/7slHHGAvn-k)
 
 [第4章 主題曲🎵](https://youtu.be/THjFEWzlY2Y)
+
 ---
 ## 第五章：搶劫
 
