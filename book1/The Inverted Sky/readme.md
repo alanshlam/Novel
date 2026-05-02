@@ -209,11 +209,13 @@ Finally, they left the "Dead Man's Corridor". The last threat icon vanished from
 
 #### Scene from this Chapter:     
 
-[<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
+[<img src="../image/ch2-lcover.png" width="300">](https://youtube.com/shorts/OcLSNqwuZPU)  
+***[Chapter 2 Theme Song 🎵](https://youtube.com/shorts/OcLSNqwuZPU)***  
 
+
+[<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)   
 ***Do not fire!" she commanded her crew. "Let him approach."***[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
 
-***[Chapter 2 Theme Song 🎵](https://youtube.com/shorts/OcLSNqwuZPU)***
 
 ---
 # Chapter 3: The Devil's Bargain
@@ -247,7 +249,10 @@ Late one night, alone in the silent expanse of her office, she saw her reflectio
 She blinked, and a single, hot tear broke free, tracing a path down her cheek. It was not a tear of sadness, but of terrifying clarity. The system wasn't asking for her expertise. It was demanding her soul.
 
 
-#### Scene from this Chapter:    
+#### Scene from this Chapter:   
+
+[<img src="../image/ch3-lcover.png" width="300">](https://youtu.be/juL5Pbh_GqE)  
+**[Chapter 3 Theme Song 🎵](https://youtu.be/juL5Pbh_GqE)***  
 
 
 [<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/2NIp15Jpvlc)
@@ -255,8 +260,7 @@ She blinked, and a single, hot tear broke free, tracing a path down her cheek. I
 ***"Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"***
 [Sample video](https://youtube.com/shorts/2NIp15Jpvlc)
 
-***[Chapter 3 Theme Song 🎵](https://youtu.be/juL5Pbh_GqE)***  
-
+*
 
 ---
 # Chapter 4: The Gambit
@@ -331,14 +335,17 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 
 *Ruby Vance.* The name was now etched in his mind. Her bravery and unwavering determination to uphold her conscience in the face of treason deeply impressed his heart. He looked out at the sky, wondering what the world could be if more people in power were like her—willing to risk everything for what was right.
 
-#### Scene from this Chapter:    
+#### Scene from this Chapter: 
+
+[<img src="../image/ch4-lcover.png" width="300">](https://youtu.be/THjFEWzlY2Y)    
+***[Chapter 4 Theme Song 🎵](https://youtu.be/THjFEWzlY2Y)***  
 
 [<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/7slHHGAvn-k)
 
 ***The less we communicate, the safer we are. I will find you if needed. You can track my status through official Federation media... if I'm still there. Take care. Ruby Vance, out***  
 [sample video](https://youtube.com/shorts/7slHHGAvn-k)  
 
-***[Chapter 4 Theme Song 🎵](https://youtu.be/THjFEWzlY2Y)***  
+
 
 ---
 ## Chapter 5: Looting
