@@ -249,8 +249,8 @@
 
 ---
 
-[<img src="../../image/ch21.png" width="300">]()
-[範例影片]()
+[<img src="../../image/ch21.png" width="300">](https://youtube.com/shorts/7pJeM532LfU)
+[範例影片](https://youtube.com/shorts/7pJeM532LfU)
 
 ***場景：影子聯盟***
 
