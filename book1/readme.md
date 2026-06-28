@@ -64,6 +64,9 @@ There is a lethal beauty to a perfect lie. On the surface, Victor Stark’s isla
 ## Introduction for [Chapter 21: Vows in the Shadows](./The%20Inverted%20Sky/ch/ch21.md)    
 The wind howled across the lonely highlands, rattling the broken windows of the abandoned weather station. Inside, Ruby and Sean stood wrapped in each other, foreheads pressed together, breaths mingling warmly in the freezing air. Only hours ago, Thorne had eyed Ruby with cold skepticism, while Draven had regarded Sean with sharp suspicion — both men already planning how to use their connection as a weapon. Yet here, in this stolen moment, with danger closing in from every side, Ruby looked up at Sean, her heart laid bare. “No matter what they ask of us,” she whispered, “I choose you.” Sean’s arms tightened around her as he answered softly, “And I choose you. Always.”
 
+## Introduction for [Chapter 22: Mirrors and Masks](./The%20Inverted%20Sky/ch/ch22.md)   
+Shadows lengthened across Cygnus as two empires tightened their noose around the only two people who refused to stay inside it. With their doubles vanished and the carefully staged honeytrap reduced to static and silence, both Thorne and Draven sensed betrayal in the air. The machine had demanded results, and instead it received ghosts. Now, as reassignment orders tore Sean toward the bleeding Sirona border and Ruby remained trapped in the Federation’s gilded cage, the fragile sanctuary of their secret alliance faced its sternest test yet — not from enemies, but from the growing distance between them and the undeniable truth that some vows could only be kept across fire and void.  
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
