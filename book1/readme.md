@@ -67,6 +67,9 @@ The wind howled across the lonely highlands, rattling the broken windows of the 
 ## Introduction for [Chapter 22: Mirrors and Masks](./The%20Inverted%20Sky/ch/ch22.md)   
 Shadows lengthened across Cygnus as two empires tightened their noose around the only two people who refused to stay inside it. With their doubles vanished and the carefully staged honeytrap reduced to static and silence, both Thorne and Draven sensed betrayal in the air. The machine had demanded results, and instead it received ghosts. Now, as reassignment orders tore Sean toward the bleeding Sirona border and Ruby remained trapped in the Federation’s gilded cage, the fragile sanctuary of their secret alliance faced its sternest test yet — not from enemies, but from the growing distance between them and the undeniable truth that some vows could only be kept across fire and void.  
 
+## Introduction for [Chapter 23: Curtain Between Enemies](./The%20Inverted%20Sky/ch/ch23.md)     
+The sky had betrayed him. Minutes earlier, Sean had ruled the heavens in his fighter, engines roaring like a god’s defiance. Now he tumbled through smoke-choked air, parachute snapping open with bone-jarring force as Federation anti-air batteries turned the Sirona borderlands into a merciless meat grinder. Shot down and thrust into command of two shattered Combine companies, Sean led his exhausted, ammunition-starved survivors through days of desperate evasion—until a weathered stone monastery rose like a fragile miracle on the horizon. There, in a blood-slick kitchen divided by nothing more than a thin curtain, enemies laid down their weapons and discovered something more powerful than orders or flags: the stubborn, aching humanity still burning inside their souls. As he sat shoulder to shoulder with a Federation captain named Elias Marek, trading not bullets but bandages and broken truths, Sean wondered how many more boys would die before their leaders remembered they were human first.   
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -134,6 +137,9 @@ Shadows lengthened across Cygnus as two empires tightened their noose around the
 
 ## [第二十二章：鏡像與面具](./逆轉蒼穹/ch/ch22_TW.md) 引言 (Introduction for Chapter 22)    
 陰影在天鵝座（Cygnus）逐漸拉長，兩個帝國正將絞索收緊，套向唯一拒絕就範的兩個人。隨著他們的替身消失，精心策劃的蜜罐行動化為靜默與死寂，索恩和德雷文都察覺到了空氣中背叛的氣息。機器要求看到結果，回報它的卻是幽靈。如今，調令將肖恩推向流血衝突的西羅納邊境，而露比仍被困在聯邦的黃金牢籠中，他們秘密聯盟的脆弱庇護所正面臨迄今最嚴峻的考驗——這考驗並非來自敵人，而是來自他們之間日益加深的距離，以及一個不可否認的事實：有些誓言，只能在烈火與虛空之間堅守。
+
+## [第二十三章：敵陣間的簾幕](./逆轉蒼穹/ch/ch23_TW.md) 引言 (Introduction for Chapter 23)   
+天空背叛了他。幾分鐘前，肖恩還在戰鬥機中君臨天下，引擎的轟鳴宛如神明的抗爭。此刻，他卻在濃煙瀰漫的空氣中墜落，降落傘帶著幾乎震碎骨頭的巨力猛然張開，聯邦的防空炮火正將西羅納邊境變成無情的絞肉機。被擊落後，肖恩被迫接管了兩個殘破的聯合體連隊，帶領著疲憊不堪、彈藥匱乏的倖存者進行了數日絕望的逃避——直到一座風化的石頭修道院如奇蹟般脆弱地出現在地平線上。在那裡，在一個僅由一道薄簾隔開、血跡斑斑的廚房裡，敵人放下了武器，發現了比命令或旗幟更強大的東西：靈魂深處依然燃燒的、頑強而令人痛心的人性。當他與一位名叫伊萊亞斯·馬雷克的聯邦上尉肩並肩坐著，交換的不是子彈而是繃帶和破碎的真相時，肖恩不禁思考，在他們的領袖記起自己首先是個人之前，還有多少男孩會死去。
 
 
 
