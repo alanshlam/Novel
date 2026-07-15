@@ -279,8 +279,8 @@
 --- 
 
 
-[<img src="../../image/ch24-hug.png" width="600">](https://youtu.be/Y5V3rtUeuGw)   
-[範例影片](https://youtu.be/Y5V3rtUeuGw)
+[<img src="../../image/ch24-hug.png" width="600">](https://youtu.be/UTx82h_wtUc)   
+[範例影片](https://youtu.be/UTx82h_wtUc)
 
 場景：「我可以……我可以給你一個擁抱嗎？」   
 索菲婭的眼中湧出淚水。「我可以……我可以給你一個擁抱嗎？」  
