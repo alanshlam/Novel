@@ -70,6 +70,11 @@ Shadows lengthened across Cygnus as two empires tightened their noose around the
 ## Introduction for [Chapter 23: Curtain Between Enemies](./The%20Inverted%20Sky/ch/ch23.md)     
 The sky had betrayed him. Minutes earlier, Sean had ruled the heavens in his fighter, engines roaring like a god’s defiance. Now he tumbled through smoke-choked air, parachute snapping open with bone-jarring force as Federation anti-air batteries turned the Sirona borderlands into a merciless meat grinder. Shot down and thrust into command of two shattered Combine companies, Sean led his exhausted, ammunition-starved survivors through days of desperate evasion—until a weathered stone monastery rose like a fragile miracle on the horizon. There, in a blood-slick kitchen divided by nothing more than a thin curtain, enemies laid down their weapons and discovered something more powerful than orders or flags: the stubborn, aching humanity still burning inside their souls. As he sat shoulder to shoulder with a Federation captain named Elias Marek, trading not bullets but bandages and broken truths, Sean wondered how many more boys would die before their leaders remembered they were human first.   
 
+## Introduction for [Chapter 24: Fragile Hope](./The%20Inverted%20Sky/ch/ch24.md)     
+The village should have been a stronghold. Instead, Sean Walker found a slow-motion collapse: rows of untreated wounded, rationed supplies barely holding back starvation, and the acrid smell of resentment thick in the air. Colonel “Ox” Rostova lay blind and broken on a cot, while the acting commander’s grief had already turned deadly. With Vondra’s forces tightening the noose and the villagers on the verge of open revolt, Sean faced an impossible choice — play the diplomat in a land where mercy was treason, or watch everything they had fought for burn. In the shadow of another looming attack, one wrong word could doom them all. 
+
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -141,5 +146,7 @@ The sky had betrayed him. Minutes earlier, Sean had ruled the heavens in his fig
 ## [第二十三章：敵陣間的簾幕](./逆轉蒼穹/ch/ch23_TW.md) 引言 (Introduction for Chapter 23)   
 天空背叛了他。幾分鐘前，肖恩還在戰鬥機中君臨天下，引擎的轟鳴宛如神明的抗爭。此刻，他卻在濃煙瀰漫的空氣中墜落，降落傘帶著幾乎震碎骨頭的巨力猛然張開，聯邦的防空炮火正將西羅納邊境變成無情的絞肉機。被擊落後，肖恩被迫接管了兩個殘破的聯合體連隊，帶領著疲憊不堪、彈藥匱乏的倖存者進行了數日絕望的逃避——直到一座風化的石頭修道院如奇蹟般脆弱地出現在地平線上。在那裡，在一個僅由一道薄簾隔開、血跡斑斑的廚房裡，敵人放下了武器，發現了比命令或旗幟更強大的東西：靈魂深處依然燃燒的、頑強而令人痛心的人性。當他與一位名叫伊萊亞斯·馬雷克的聯邦上尉肩並肩坐著，交換的不是子彈而是繃帶和破碎的真相時，肖恩不禁思考，在他們的領袖記起自己首先是個人之前，還有多少男孩會死去。
 
+## [第二十四章：脆弱的希望](./逆轉蒼穹/ch/ch24_TW.md) 引言 (Introduction for Chapter 24)   
+這座村莊本該是一座堡壘。然而，尚恩·沃克看到的卻是一場慢動作般的崩潰：一排排未受妥善治療的傷員，勉強維持免於飢餓的配給物資，以及空氣中瀰漫著的刺鼻怨恨氣息。「牛」羅斯托夫上校雙眼失明、身心俱疲地躺在行軍床上，而代理指揮官的悲痛已經轉化為致命的危險。隨著馮德拉的軍隊逐漸收緊包圍網，村民們也處於公開叛變的邊緣，尚恩面臨著一個不可能的選擇——在一個仁慈等同於叛國的國度裡扮演外交官，或是眼睜睜看著他們奮戰得來的一切付之一炬。在另一場迫在眉睫的攻擊陰影下，一句錯話就可能讓所有人萬劫不復。
 
 
