@@ -115,8 +115,8 @@ Ambassador Kael Draven is a sharp-eyed veteran diplomat and survivor of three in
 <img src=../image/Lila.png width="100">   
 Lila Voss is a sharp, world-weary infiltration asset in her late twenties, chosen for her striking resemblance to Ruby Vance and her flawless ability to mirror diplomatic poise. Orphaned on a remote Federation colony and recruited into the shadow services as a teenager, she has spent years perfecting the art of seduction and deception, only to grow increasingly disillusioned by the lives she helps destroy. Beneath her cool professionalism lies a quiet, simmering resentment toward the machine that turned her into a disposable weapon — a resentment that finds unexpected resonance when she meets her counterpart.
 
-**Marcus Kane (Sean's Double, Caspian Combine )**  
-<img src=../image/Marcus.png width="100"> 
+**Marcus Kane (Sean's Double, Caspian Combine )**    
+<img src=../image/Marcus.png width="100">    
 Marcus Kane is a battle-hardened Combine operative in his late twenties, selected for his athletic build and natural intensity that echoes Sean Walker. Pulled from a re-education camp and trained as a professional honey-trap asset, he has worn too many faces and ruined too many lives in service to handlers who see him as expendable. Cynical and guarded, Marcus carries the weight of moral compromises, but a single genuine conversation with Lila begins to crack the armor he’s built around his desire for something real — and the courage to reach for it. 
 
 **Captain Elias Marek ( Meridian Federation )**     
@@ -137,8 +137,8 @@ Captain Marek Solov is a battle-hardened Combine officer in his thirties, servin
 General Vondra is a ruthless and calculating pro-Federation Sirona warlord known for his brutal pragmatism and tactical cunning. A hardened military leader, he showed little regard for civilian lives, readily ordering attacks on villages and executing rivals (including his former XO Colonel Aero Kane) to maintain power. Vondra’s willingness to ally with the Federation while planning the complete destruction and looting of Hopewell revealed his opportunistic and merciless nature. After his capture during the armory sabotage, he was handed over to the Hopewell courthouse to face justice for his crimes. Vondra embodies the destructive ambition and moral emptiness of the larger war, serving as a stark contrast to those fighting for stability and human dignity.    
 
 
-**Governor General Thaddeus Grim (Caspian Combine)**
-<img src=../image/Grim2.png width="100">
+**Governor General Thaddeus Grim (Caspian Combine)**    
+<img src=../image/Grim2.png width="100">    
 Governor General Thaddeus Grim is a corrupt, cowardly political animal in his late fifties who abandoned his citizens during the Scourge invasion of Haven-4, fleeing to the capital while his people were slaughtered or taken hostage. Now reinstated as governor, he blocks the repatriation of thousands of traumatized refugees — including pregnant women and children — using bureaucratic excuses and false claims of “brainwashing,” all while demanding larger reconstruction budgets to line his own pockets through a web of shadow accounts and proxies. Greedy, arrogant, and quick to bluster when threatened, Grim embodies the worst of the machine: a man who profits from suffering and crumbles when his hidden wealth and connections are exposed. 
 
 </details>
