@@ -209,8 +209,8 @@
 
 當它們來臨時，他會準備好的。
 
-[<img src="../../image/ch25-c.png" width="600">](https://youtu.be/UTx82h_wtUc)   
-[範例影片](https://youtu.be/UTx82h_wtUc)
+[<img src="../../image/ch25-c.png" width="600">](https://youtu.be/clvjMHTUESU)   
+[範例影片](https://youtu.be/clvjMHTUESU)
 
 
 ***場景：緊張的軍事對峙 ***
