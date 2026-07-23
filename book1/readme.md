@@ -73,6 +73,8 @@ The sky had betrayed him. Minutes earlier, Sean had ruled the heavens in his fig
 ## Introduction for [Chapter 24: Fragile Hope](./The%20Inverted%20Sky/ch/ch24.md)     
 The village should have been a stronghold. Instead, Sean Walker found a slow-motion collapse: rows of untreated wounded, rationed supplies barely holding back starvation, and the acrid smell of resentment thick in the air. Colonel “Ox” Rostova lay blind and broken on a cot, while the acting commander’s grief had already turned deadly. With Vondra’s forces tightening the noose and the villagers on the verge of open revolt, Sean faced an impossible choice — play the diplomat in a land where mercy was treason, or watch everything they had fought for burn. In the shadow of another looming attack, one wrong word could doom them all. 
 
+## Introduction for [Chapter 25: The Price of Greed](./The%20Inverted%20Sky/ch/ch25.md)     
+Eighteen months of stalling the war machine had bought Hopewell a fragile peace, but now the order had come: reassignment. As he stood at the edge of the thriving county he had helped build, watching Eva Rostova take command and Sofia Frost’s determined gaze linger on him one last time, Sean felt the weight of fragile hope slipping through his fingers. Thousands of broken refugees remained trapped in camps outside Haven-4 colony, held hostage by one man’s greed. But in the encrypted shadows of the Weather Forum, Ruby’s voice cut through like a blade: “We end this today.” The machine had finally pushed too far — and Sean was ready to push back.
 
 
 --- 
@@ -148,5 +150,8 @@ The village should have been a stronghold. Instead, Sean Walker found a slow-mot
 
 ## [第二十四章：脆弱的希望](./逆轉蒼穹/ch/ch24_TW.md) 引言 (Introduction for Chapter 24)   
 這座村莊本該是一座堡壘。然而，尚恩·沃克看到的卻是一場慢動作般的崩潰：一排排未受妥善治療的傷員，勉強維持免於飢餓的配給物資，以及空氣中瀰漫著的刺鼻怨恨氣息。「牛」羅斯托夫上校雙眼失明、身心俱疲地躺在行軍床上，而代理指揮官的悲痛已經轉化為致命的危險。隨著馮德拉的軍隊逐漸收緊包圍網，村民們也處於公開叛變的邊緣，尚恩面臨著一個不可能的選擇——在一個仁慈等同於叛國的國度裡扮演外交官，或是眼睜睜看著他們奮戰得來的一切付之一炬。在另一場迫在眉睫的攻擊陰影下，一句錯話就可能讓所有人萬劫不復。
+
+## [第二十五章：脆弱的希望](./逆轉蒼穹/ch/ch25_TW.md) 引言 (Introduction for Chapter 25)   
+拖延戰爭機器十八個月，為霍普韋爾（Hopewell）換來了脆弱的和平，但現在命令已經下達：調職。當他站在自己幫助建立的繁榮縣城邊緣，看著伊娃·羅斯托夫接管指揮權，索菲婭·弗羅斯特堅定的目光最後一次停留在他身上時，尚恩·沃克感覺那脆弱的希望正從指縫間溜走。數千名飽受創傷的難民仍被困在海文-4（Haven-4）殖民地外的營地裡，成為一個人貪婪的俘虜。但在「天氣論壇」加密的陰影中，露比·萬斯的聲音如利刃般劃破寂靜：「我們今天就結束這一切。」這台機器終於逼得太緊了——而尚恩準備反擊。
 
 
