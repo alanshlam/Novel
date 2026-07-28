@@ -209,6 +209,8 @@
 
 當它們來臨時，他會準備好的。
 
+--- 
+
 [<img src="../../image/ch25-c.png" width="600">](https://youtu.be/clvjMHTUESU)   
 [範例影片](https://youtu.be/clvjMHTUESU)
 
@@ -221,4 +223,4 @@
 
 她喊道，聲音隨風傳來：「讓你的車隊掉頭。否則我們將使用武力。沒有總督格林的明確授權，任何人不得進入。」
 
-[上一章](./ch24.md)
+[上一章](./ch24.md)|[下一章](./ch26.md)
