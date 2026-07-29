@@ -76,6 +76,8 @@ The village should have been a stronghold. Instead, Sean Walker found a slow-mot
 ## Introduction for [Chapter 25: The Price of Greed](./The%20Inverted%20Sky/ch/ch25.md)     
 Eighteen months of stalling the war machine had bought Hopewell a fragile peace, but now the order had come: reassignment. As he stood at the edge of the thriving county he had helped build, watching Eva Rostova take command and Sofia Frost’s determined gaze linger on him one last time, Sean felt the weight of fragile hope slipping through his fingers. Thousands of broken refugees remained trapped in camps outside Haven-4 colony, held hostage by one man’s greed. But in the encrypted shadows of the Weather Forum, Ruby’s voice cut through like a blade: “We end this today.” The machine had finally pushed too far — and Sean was ready to push back.
 
+## Introduction for [Chapter 26: Ghosts in the Static](./The%20Inverted%20Sky/ch/ch26.md)     
+For twenty-four short days, Haven-4 had felt less like a graveyard of the war and more like the beginning of a home. The sound of hammers and construction crews had replaced the wail of sirens, and under Ox’s steady hands, the colony was finally breathing on its own. But peace in the outer sectors was always a fragile illusion—a thin sheet of ice over a dark ocean. When the nightmare returned, it didn't arrive with the thunder of Scourge warships or the marching boots of Federation soldiers. It crept in through the gates quietly, hidden in the blood of the very refugees they had fought so hard to save, waiting for a single silent signal to shatter everything.   
 
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
