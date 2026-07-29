@@ -141,6 +141,10 @@ General Vondra is a ruthless and calculating pro-Federation Sirona warlord known
 <img src=../image/Grim2.png width="100">    
 Governor General Thaddeus Grim is a corrupt, cowardly political animal in his late fifties who abandoned his citizens during the Scourge invasion of Haven-4, fleeing to the capital while his people were slaughtered or taken hostage. Now reinstated as governor, he blocks the repatriation of thousands of traumatized refugees — including pregnant women and children — using bureaucratic excuses and false claims of “brainwashing,” all while demanding larger reconstruction budgets to line his own pockets through a web of shadow accounts and proxies. Greedy, arrogant, and quick to bluster when threatened, Grim embodies the worst of the machine: a man who profits from suffering and crumbles when his hidden wealth and connections are exposed. 
 
+**Dr. Elena Vance (Republic of Cygnus)**    
+<img src=../image/Elena.png width="100">    
+Dr. Elena Vance is a brilliant, fiercely independent field microbiologist and epidemic response specialist for the Global Epidemic Response Initiative (GERI). Driven by a deep moral compass, she abandoned a prestigious career at the Federation’s CDC after growing disgusted by the weaponization of medical research, choosing instead to save lives on the chaotic frontiers of the galaxy. Practical and relentless, Elena possesses sharp, analytical eyes, short blonde hair, and an indelible physical resemblance to her cousin, Ruby Vance—a genetic double whose fiery determination she shares. Unyielding in her pursuit of truth, she approaches science with rigorous methodology, making her both an unstoppable force against biological crises and a dangerous threat to those who seek to manipulate human life for corporate profit. 
+
 </details>
 
 ---
