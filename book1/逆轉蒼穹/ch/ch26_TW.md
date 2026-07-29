@@ -447,8 +447,8 @@ GERI立即將艾蓮娜的方案發布至公開醫療頻道，敦促鄰近星域�
 他不再只是對抗一種無形疾病。他正孤身一人，對抗一個帝國。
 
 ---   
-[<img src="../../image/ch26-p.png" width="600">](https://youtu.be/clvjMHTUESU)   
-[範例影片](https://youtu.be/clvjMHTUESU)
+[<img src="../../image/ch26-p.png" width="600">](https://youtu.be/sgow2fe6fPc)   
+[範例影片](https://youtu.be/sgow2fe6fPc)
 
 
 場景：尚恩·沃克少校擁抱艾蓮娜·萬斯博士，先鋒治療公司失敗的心智控制補丁所造成的恐怖代價清晰可見。  
