@@ -445,8 +445,8 @@
 
 當尚恩站在穿梭機坡道上，最後一次回望海文-4這座平靜安寧的定居點時，他知道簡單的部分已經結束。泥濘與寒冷中的戰鬥已然落幕。現在，戰爭正直接轉移至首都那光鮮亮麗、金碧輝煌的大廳之中。
 
-[<img src="../../image/ch27-s1.png" width="600">](https://youtu.be/sgow2fe6fPc)   
-[範例影片](https://youtu.be/sgow2fe6fPc)
+[<img src="../../image/ch27-s1.png" width="600">](https://youtu.be/IufmseqS4-0)   
+[範例影片](https://youtu.be/IufmseqS4-0)
 
 
 *場景：那不是生物趨化性……那是群聚行為。*  
