@@ -79,6 +79,13 @@ Eighteen months of stalling the war machine had bought Hopewell a fragile peace,
 ## Introduction for [Chapter 26: Ghosts in the Static](./The%20Inverted%20Sky/ch/ch26.md)     
 For twenty-four short days, Haven-4 had felt less like a graveyard of the war and more like the beginning of a home. The sound of hammers and construction crews had replaced the wail of sirens, and under Ox’s steady hands, the colony was finally breathing on its own. But peace in the outer sectors was always a fragile illusion—a thin sheet of ice over a dark ocean. When the nightmare returned, it didn't arrive with the thunder of Scourge warships or the marching boots of Federation soldiers. It crept in through the gates quietly, hidden in the blood of the very refugees they had fought so hard to save, waiting for a single silent signal to shatter everything.   
 
+## Introduction for [Chapter 27: The Dead Signal](./The%20Inverted%20Sky/ch/ch27.md)    
+Hope was supposed to be the cure, but on the frozen frontier of Haven-4, it was becoming a death trap. As the last of the sick refugees recovered in the shadow of the open-air camps, a new terror materialized in the center of the settlement---a salvaged anti-matter reactor, dropped in under the guise of a humanitarian upgrade. With a delegation of senators en route and a corrupt governor holding the detonator, Major Sean Walker and Dr. Elena Vance find themselves trapped in a deadly game of checkmate. Exposed to a weaponized corporate conspiracy that spreads not through blood, but through an invisible signal, Sean must dismantle a bomb, outsmart a murderer, and risk everything before an entire colony is erased in a flash of silent white light. 
+
+## Introduction for [Chapter 28: A Cage of Marble and Gold](./The%20Inverted%20Sky/ch/ch28.md)    
+In the polished marble halls of Capital Vanguard, silence was far more dangerous than gunfire. The war on the frontier was over, but a far deadlier battle had begun — one fought with redacted files, coerced oaths, and conveniently timed obituaries. As the machinery of power moved to erase every loose end of the Haven-4 crisis, Colonel Sean Walker and Dr. Elena Vance were left standing on a razor's edge. They weren't just searching for the truth anymore; they were racing against a quiet executioner who never missed a target.
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -158,4 +165,10 @@ For twenty-four short days, Haven-4 had felt less like a graveyard of the war an
 
 ## [第二十六章：雜訊中的幽靈](./逆轉蒼穹/ch/ch26_TW.md) 引言 (Introduction for Chapter 26)     
 二十四天以來，海文-4不再像一座戰爭的墳場，反而更像一個家的起點。鐵錘與工程隊的敲擊聲取代了警報的哀鳴；在伊凡·羅斯托夫穩健的治理下，殖民地終於能自主呼吸。然而在外圍星域，和平始終只是脆弱的幻象——如同覆蓋在深淵之上的薄冰。當噩夢再度降臨，它並非伴隨著天災軍團的戰艦轟鳴，也非聯邦士兵的踏步聲，而是悄然潛入城門，藏匿於他們拼死拯救的難民血液之中，只待一個無聲的信號，便將一切徹底粉碎。  
+
+## [第二十七章：死亡訊號 ](./逆轉蒼穹/ch/ch27_TW.md) 引言 (Introduction for Chapter 27)    
+希望本該是解藥，但在海文-4冰封的邊境，它卻成了死亡陷阱。當最後一批染病難民在露天營地的陰影下逐漸康復時，一種全新的恐怖降臨於定居點中央——一座回收再利用的反物質反應爐，以人道升級為名被悄悄運入。隨著參議員代表團即將抵達，而手握引爆器的腐敗總督虎視眈眈，尚恩·沃克少校與艾蓮娜·萬斯博士發現自己陷入一場致命的將軍棋局。他們暴露在一場企業武裝陰謀之下——這陰謀並非透過血液傳播，而是藉由一種無形的訊號擴散。尚恩必須拆除炸彈、智取兇手，並賭上一切，否則整個殖民地將在一道寂靜的白光中灰飛
+
+## [第二十八章：大理石與黃金打造的牢籠](./逆轉蒼穹/ch/ch28_TW.md) 引言 (Introduction for Chapter 28)     
+在首都先鋒城光潔的大理石走廊裡，沉默遠比槍聲更危險。前線的戰爭已經結束，但一場致命得多的戰役才剛剛開始——這是一場由塗黑檔案、脅迫誓言和時機恰到好處的訃告所交織的戰爭。當權力機器開始抹除海文-4危機的所有未清尾帳時，尚恩·沃克上校與艾蓮娜·萬斯博士正站在刀刃之上。他們不再只是尋找真相；他們正在與一個從不失手的安靜劊子手賽跑。
 
