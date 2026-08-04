@@ -85,6 +85,8 @@ Hope was supposed to be the cure, but on the frozen frontier of Haven-4, it was 
 ## Introduction for [Chapter 28: A Cage of Marble and Gold](./The%20Inverted%20Sky/ch/ch28.md)    
 In the polished marble halls of Capital Vanguard, silence was far more dangerous than gunfire. The war on the frontier was over, but a far deadlier battle had begun — one fought with redacted files, coerced oaths, and conveniently timed obituaries. As the machinery of power moved to erase every loose end of the Haven-4 crisis, Colonel Sean Walker and Dr. Elena Vance were left standing on a razor's edge. They weren't just searching for the truth anymore; they were racing against a quiet executioner who never missed a target.
 
+## Introduction for [Chapter 29: Dissolving Proof](./The%20Inverted%20Sky/ch/ch29.md) 
+In the high-stakes theater of galactic power, the deadliest weapon isn't a bullet or a bomb—it's a clean paper trail. Across the Capital, Vanguard Therapeutics triggers a covert disassembly signal, melting thousands of microscopic transceivers inside the veins of living victims and flushing the hardware down city sewers as microscopic waste. With a closing forty-eight-hour bio-forensic window and three hundred thousand untouched vaccine doses rigged to vanish in a cloud of fire and vapor, Colonel Sean Walker and Dr. Elena Vance are forced into a desperate race against time—hunting an enemy that would rather turn an industrial park to slag than let a single drop of truth reach the light.    
 
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
@@ -171,4 +173,7 @@ In the polished marble halls of Capital Vanguard, silence was far more dangerous
 
 ## [第二十八章：大理石與黃金打造的牢籠](./逆轉蒼穹/ch/ch28_TW.md) 引言 (Introduction for Chapter 28)     
 在首都先鋒城光潔的大理石走廊裡，沉默遠比槍聲更危險。前線的戰爭已經結束，但一場致命得多的戰役才剛剛開始——這是一場由塗黑檔案、脅迫誓言和時機恰到好處的訃告所交織的戰爭。當權力機器開始抹除海文-4危機的所有未清尾帳時，尚恩·沃克上校與艾蓮娜·萬斯博士正站在刀刃之上。他們不再只是尋找真相；他們正在與一個從不失手的安靜劊子手賽跑。
+
+## [第二十九章：溶解的證據](./逆轉蒼穹/ch/ch29_TW.md) 引言 (Introduction for Chapter 29)     
+在銀河權力博弈的高風險劇場中，最致命的武器不是子彈或炸彈——而是被清理得一乾二淨的文件紀錄。在整個首都，先鋒治療（Vanguard Therapeutics）觸發了隱密的分解信號，將數千個微型收發器在活體受害者的靜脈中融化，並將這些硬體作為微型廢物衝入城市下水道。隨著四十八小時的生物法醫鑑定窗口即將關閉，以及三十萬劑未經使用的疫苗被暗設機關，即將在火海與蒸汽中灰飛煙滅，尚恩·沃克上校與艾蓮娜·萬斯博士被迫展開一場絕望的與時間賽跑——追捕一個寧願將整個工業園區化為熔渣，也不讓一滴真相重見天日的敵人。 
 
