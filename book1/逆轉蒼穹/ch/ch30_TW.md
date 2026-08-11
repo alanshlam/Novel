@@ -415,8 +415,8 @@
 他將手抵在冰冷的玻璃上，下顎如鐵般繃緊。戰壕裡的戰爭結束了，但在這座鍍金城市的暗影中，真正的生存之戰才剛剛開始。
 
 ---   
-[<img src="../../image/ch30-02.png" width="600">](https://youtu.be/Jmhc087STPY)  
-[樣片影片](https://youtu.be/Jmhc087STPY)  
+[<img src="../../image/ch30-02.png" width="600">](https://youtu.be/G3-1vWJJ8Bw)  
+[樣片影片](https://youtu.be/G3-1vWJJ8Bw)  
 
 ---  
 
@@ -429,8 +429,8 @@
 
 尚恩（嚴厲、緊迫、低沉的指揮嗓音）："別現在看那個，艾蓮娜。把病人的原始紀錄檔直接複製到晶片裡！"
 
-[<img src="../../image/ch30-03.png" width="600">](https://youtu.be/Jmhc087STPY)  
-[樣片影片](https://youtu.be/Jmhc087STPY)  
+[<img src="../../image/ch30-03.png" width="600">](https://youtu.be/eOTpGki_SFc)  
+[樣片影片](https://youtu.be/eOTpGki_SFc)  
 
 
 場景：你挺過了邊疆地帶……你能在這座城市裡活下來嗎？
