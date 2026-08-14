@@ -88,8 +88,12 @@ In the polished marble halls of Capital Vanguard, silence was far more dangerous
 ## Introduction for [Chapter 29: Dissolving Proof](./The%20Inverted%20Sky/ch/ch29.md) 
 In the high-stakes theater of galactic power, the deadliest weapon isn't a bullet or a bomb—it's a clean paper trail. Across the Capital, Vanguard Therapeutics triggers a covert disassembly signal, melting thousands of microscopic transceivers inside the veins of living victims and flushing the hardware down city sewers as microscopic waste. With a closing forty-eight-hour bio-forensic window and three hundred thousand untouched vaccine doses rigged to vanish in a cloud of fire and vapor, Colonel Sean Walker and Dr. Elena Vance are forced into a desperate race against time—hunting an enemy that would rather turn an industrial park to slag than let a single drop of truth reach the light.   
 
-## Introduction for [Chapter 30: The Quiet Compromise](./The%20Inverted%20Sky/ch/ch30.md) 
+## Introduction for [Chapter 30: The Quiet Compromise](./The%20Inverted%20Sky/ch/ch30.md)  
 In the gilded heart of the Capital, the most lethal weapon wasn't a sniper's bullet or a tactical warhead—it was a quiet signature on a classified mandate. As Colonel Sean Walker and his team unearth a subterranean horror buried beneath Vanguard's pristine laboratories, they uncover a terrifying truth: Project Aegis isn't designed to save humanity, but to leash it. Trapped between a sinister neural network and a political machine desperate to bury the fallout, Sean must face the darkest realization of all—that in a city built on compromise, even victory can be rewritten as a cover-up.
+
+## Introduction for [Chapter 31: The Judgment of Winter](./The%20Inverted%20Sky/ch/ch31.md)  
+In the shadow-drenched halls of East Erden, truth is a fragile weapon, and justice is a dangerous game. As Judge Maria Santos prepares to expose the dark legacy of General Garrick's regime, Colonel Sean Walker and Chief Legal Director Victoria Cross execute a high-stakes legal trap that shatters the city's silence. But backed into a corner, the Capital's powerful elite will not go quietly. In a city where every promise comes at a price and every ally wears a mask, a single verdict could ignite the ultimate confrontation between regional justice and imperial power.
+
 
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
@@ -182,6 +186,9 @@ In the gilded heart of the Capital, the most lethal weapon wasn't a sniper's bul
 
 ## [第三十章：無聲的妥協](./逆轉蒼穹/ch/ch30_TW.md) 引言 (Introduction for Chapter 30)     
 在首都那鍍金的心臟地帶，最致命的武器並非狙擊手的子彈，也不是戰術彈頭——而是一份機密授權令上那無聲的簽名。當尚恩·沃克上校與他的團隊在先鋒治療那光潔無瑕的實驗室下方掘出一座深埋地底的恐怖設施時，他們揭開了一個令人膽寒的真相：神盾計劃並非為了拯救人類而設計，而是為了給人類套上枷鎖。困在一個陰險的神經網路與一台急於掩埋後果的政治機器之間，尚恩必須面對最黑暗的覺悟——在這座建立在妥協之上的城市裡，即便是勝利，也能被改寫成一場掩蓋。
+
+## [第三十一章：冬季的審判](./逆轉蒼穹/ch/ch30_TW.md) 引言 (Introduction for Chapter 31)     
+在厄爾登被陰影籠罩的大廳裡，真相是脆弱的武器, 而正義是一場危險的遊戲。隨著瑪麗亞·桑托斯法官準備揭露哈蘭·加里克將軍政權的黑暗遺產，尚恩·沃克上校與首席法律總監維多利亞·克羅斯執行了一場高風險的法律陷阱打破了城市的沉默。但被逼入絕境的首都權貴們並不會安靜退場。在這座城市裡，每一個承諾都有代價，每一個盟友都戴著面具，一場判決就可能引爆地方正義與帝國權力之間的終極對決。
 
 
 
