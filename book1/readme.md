@@ -94,6 +94,8 @@ In the gilded heart of the Capital, the most lethal weapon wasn't a sniper's bul
 ## Introduction for [Chapter 31: The Judgment of Winter](./The%20Inverted%20Sky/ch/ch31.md)  
 In the shadow-drenched halls of East Erden, truth is a fragile weapon, and justice is a dangerous game. As Judge Maria Santos prepares to expose the dark legacy of General Garrick's regime, Colonel Sean Walker and Chief Legal Director Victoria Cross execute a high-stakes legal trap that shatters the city's silence. But backed into a corner, the Capital's powerful elite will not go quietly. In a city where every promise comes at a price and every ally wears a mask, a single verdict could ignite the ultimate confrontation between regional justice and imperial power.
 
+## Introduction for [Chapter 32: The The Razor’s Edge of Peace](./The%20Inverted%20Sky/ch/ch32.md)  
+To govern a conquered land, a man must choose between the whip and the mantle—between ruling through fear or bearing the crushing weight of a people's grief. In the wake of General Garrick's iron-fisted tyranny, Colonel Sean Walker steps into the ashes of East Erden not as an oppressor, but as a silent shield. But as the long-awaited Referendum approaches and imperial forces mass at the border, Sean is forced to play a razor-thin game of political chess: persuading a city that despises his uniform to hold its fire, stay its hand, and use the empire's own armor to buy their freedom tomorrow. 
 
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
@@ -187,8 +189,9 @@ In the shadow-drenched halls of East Erden, truth is a fragile weapon, and justi
 ## [第三十章：無聲的妥協](./逆轉蒼穹/ch/ch30_TW.md) 引言 (Introduction for Chapter 30)     
 在首都那鍍金的心臟地帶，最致命的武器並非狙擊手的子彈，也不是戰術彈頭——而是一份機密授權令上那無聲的簽名。當尚恩·沃克上校與他的團隊在先鋒治療那光潔無瑕的實驗室下方掘出一座深埋地底的恐怖設施時，他們揭開了一個令人膽寒的真相：神盾計劃並非為了拯救人類而設計，而是為了給人類套上枷鎖。困在一個陰險的神經網路與一台急於掩埋後果的政治機器之間，尚恩必須面對最黑暗的覺悟——在這座建立在妥協之上的城市裡，即便是勝利，也能被改寫成一場掩蓋。
 
-## [第三十一章：冬季的審判](./逆轉蒼穹/ch/ch30_TW.md) 引言 (Introduction for Chapter 31)     
-在厄爾登被陰影籠罩的大廳裡，真相是脆弱的武器, 而正義是一場危險的遊戲。隨著瑪麗亞·桑托斯法官準備揭露哈蘭·加里克將軍政權的黑暗遺產，尚恩·沃克上校與首席法律總監維多利亞·克羅斯執行了一場高風險的法律陷阱打破了城市的沉默。但被逼入絕境的首都權貴們並不會安靜退場。在這座城市裡，每一個承諾都有代價，每一個盟友都戴著面具，一場判決就可能引爆地方正義與帝國權力之間的終極對決。
+## [第三十一章：冬季的審判](./逆轉蒼穹/ch/ch31_TW.md) 引言 (Introduction for Chapter 31)     
+在厄爾登被陰影籠罩的大廳裡，真相是脆弱的武器， 而正義是一場危險的遊戲。隨著瑪麗亞·桑托斯法官準備 揭露哈蘭·加里克將軍政權的黑暗遺產，尚恩·沃克上校 與首席法律總監維多利亞·克羅斯執行了一場高風險的法律陷阱 打破了城市的沉默。但被逼入絕境的 首都權貴們並不會安靜退場。在這座城市裡，每一個 承諾都有代價，每一個盟友都戴著面具，一場判決 就可能引爆地方正義與 帝國權力之間的終極對決。
 
-
+## [第三十二章：和平的剃刀邊緣](./逆轉蒼穹/ch/ch32_TW.md) 引言 (Introduction for Chapter 32)     
+要治理一片被征服的土地，人必須在長鞭與斗篷之間做出抉擇——究竟是憑藉恐懼進行統治，還是背負起一個民族沉重的悲傷。在加里克將軍鐵腕暴政的廢墟之中，尚恩·沃克上校踏入東厄爾登的灰燼，他不是以壓迫者的姿態出現，而是作為一面無聲的盾牌。然而，隨著期盼已久的全民公投日益臨近，加上帝國軍隊在邊境集結，尚恩被迫展開一場極其危險的政治博弈：說服一個憎恨他制服的城市放下武器、克制怒火，並利用帝國自身的裝甲，為明日買下自由。 
 
