@@ -97,6 +97,11 @@ In the shadow-drenched halls of East Erden, truth is a fragile weapon, and justi
 ## Introduction for [Chapter 32: The The Razor’s Edge of Peace](./The%20Inverted%20Sky/ch/ch32.md)  
 To govern a conquered land, a man must choose between the whip and the mantle—between ruling through fear or bearing the crushing weight of a people's grief. In the wake of General Garrick's iron-fisted tyranny, Colonel Sean Walker steps into the ashes of East Erden not as an oppressor, but as a silent shield. But as the long-awaited Referendum approaches and imperial forces mass at the border, Sean is forced to play a razor-thin game of political chess: persuading a city that despises his uniform to hold its fire, stay its hand, and use the empire's own armor to buy their freedom tomorrow. 
 
+## Introduction for [Chapter 33: The Price of Peace](./The%20Inverted%20Sky/ch/ch33.md)  
+The final act of Sean Walker's story moves from the bloody mud of the borderlands into the lethal corridors of supreme power, where an idealist's greatest threat is not an enemy army, but the machine he once swore to serve. Having abandoned his stars to fight for peace on the campaign trail, Sean quickly learns that dismantling a fifty-year war requires more than public mandate---it demands outmaneuvering a shadowy deep state willing to burn the Republic to the ground. From the electrifying hope of a historic election to a devastating betrayal and a heart-stopping final gamble, this closing chapter brings Sean and Ruby to the absolute edge of survival, testing whether two former enemies can truly break the cycle of violence to build a future together.
+
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
