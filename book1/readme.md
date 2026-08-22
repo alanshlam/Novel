@@ -1,4 +1,9 @@
 # [The Inverted Sky](./The%20Inverted%20Sky)
+
+In a galaxy fractured by **fifty years of relentless interstellar war**, two sworn enemies find their fates irrevocably bound by a single, unexpected act of mercy in the shattered ruins of the Blue Lake district. **The Inverted Sky** follows **Sean Walker**, a cynical Combine pilot with a stubborn, unyielding conscience, and **Ruby Vance**, an idealistic Federation diplomat trapped in a gilded cage of amoral realpolitik. Forced to play a high-stakes game of survival and treason across the stars—from death-defying aerial maneuvers in the Dead Man's Corridor to exposing a horrific, soul-erasing deep-state conspiracy—their secret, forbidden alliance becomes the only lifeline in a universe of lies. As both parallelly rise to the absolute peaks of supreme power, they must wage a quiet, dangerous war from within to dismantle the very machines they serve, or watch the galaxy burn.
+
+
+
 ## Introduction for [Chapter 1:Acquaintance](./The%20Inverted%20Sky#chapter-1-acquaintance)
 Trapped behind enemy lines, Air Force cadet Sean Walker expects a bullet, not mercy. When he comes face-to-face with a lone enemy diplomat, he offers his life for his students. But her decision will shatter his understanding of the war and ignite a connection that defies allegiance.
 
