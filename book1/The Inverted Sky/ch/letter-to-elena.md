@@ -28,3 +28,7 @@ For the first time in our lives, Elena, the sky is no longer inverted. The war i
 With all my love and deepest pride,
 
 **Ruby**
+
+PS Below is our new home photo   
+
+<img src="../../image/cygnus_clifftop_sanctuary.jpg" width="600">
