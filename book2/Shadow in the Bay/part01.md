@@ -75,7 +75,7 @@ silverware.
 intense register as she twirled her fork. \"Vivian Fan---the student
 APAPA leader. She isn\'t just an overachieving volunteer. Two
 independent sources confirmed she's in regular contact with an officer
-from the Ministry of State Security operating under diplomatic cover out
+from a National Security Bureau operating under diplomatic cover out
 of the San Francisco consulate.\"
 
 Yian paused, his fork hovering. \"Wendy, we talked about this.
