@@ -1,6 +1,6 @@
 # Shadow in the Bay
 
-## Part 1: The Window Invitation  
+# Part 1: The Window Invitation  
 
 
 In the rain-slicked concrete labyrinth of the San Francisco Bay Area, a brilliant young journalist is brutally silenced after uncovering a terrifying modern espionage pipeline. The target isn't classified military secrets, but the future of American power: up-and-coming local politicians whose private vulnerabilities are being quietly compiled into "target packages" by a charismatic campus organizer. When an innocent campaign volunteer is framed for her murder, his sister Zoe and a guilt-ridden, brilliant architect named Xavier Stone are dragged into a deadly shadow game. Up against a professional cleanup crew that leaves no forensic footprint, Xavier must decide how much of his fortune and his own life he is willing to bankrupt to unlock the cell doors of his past. But as the freezing waters of the Oakland harbor rise, they realize they have only scratched the surface of a vast, elite network of kompromat and political influence peddling run by the shadowy billionaire Victor Stark.
@@ -15,7 +15,7 @@ In the rain-slicked concrete labyrinth of the San Francisco Bay Area, a brillian
 <details>
 <summary>  Main Characters </summary>
 
-#### Zoe Lin 
+### Zoe Lin 
 
 <img src=../image/Zoe01.png width="100"> 
 
@@ -23,7 +23,7 @@ Zoe Lin is a resilient former corporate accountant who walked away from a presti
 
 
 
-#### Xavier Stone
+### Xavier Stone
 
 <img src=../image/Xavier01.png width="100">   
 
@@ -36,7 +36,7 @@ Xavier Stone is a brilliant, wealthy architect whose rigid, clinical detachment 
 
 ---  
 
-### Scene 1: The Shadow of the Knife   
+## Scene 1: The Shadow of the Knife   
 
 
 **Setting:** Wendy Adler's sixth-floor apartment in Oakland. The room is
@@ -188,7 +188,7 @@ table as the cold reality of the trap closed around him.
 
 ---   
 
-### Scene 2: The Architecture of Silence
+## Scene 2: The Architecture of Silence
 
 The rain had turned the San Francisco Bay into a gray, smudged slate,
 and by the time Zoe Lin reached the top-floor offices of Stone &
@@ -316,7 +316,7 @@ suffocating weight of his past broke him in two.
 <img src=../image/confront05.png width="800">
 ---   
 
-### Scene 3: The Geometry of a Trap
+## Scene 3: The Geometry of a Trap
 
 The rain in Oakland didn\'t wash things clean; it just made the grime
 slick.
@@ -534,7 +534,7 @@ warm.
 
 ---  
 
-### Scene 4: The Cost of Salvation  
+## Scene 4: The Cost of Salvation  
 
 The smell of ozone, wet wool, and copper-laced blood invaded the sterile
 minimalism of Xavier Stone's private office.
@@ -652,7 +652,7 @@ standing guard over the dead.
 
 ---   
 
-### Scene 5: The Sound of the Trap   
+## Scene 5: The Sound of the Trap   
 
 **Setting:** Jo Mercer's private investigation office---a cramped,
 second-story room above a dusty locksmith shop in West Oakland. The air
@@ -819,7 +819,7 @@ holding her entire world together.
 
 ---   
 
-### Scene 6: The Choice at the Precipice
+## Scene 6: The Choice at the Precipice
 
 **Setting:** Jo Mercer's dark office in West Oakland. The speakerphone
 has just clicked dead. Zoe sits frozen in the heavy plastic zip-ties,
@@ -971,7 +971,7 @@ with an absolute, heartbreaking warmth.
 
 ---   
 
-### Scene 7: The Gravity of the Bay    
+## Scene 7: The Gravity of the Bay    
 
 **Setting:** Pier 41, Oakland Inner Harbor. The midnight air was a
 freezing slurry of rain and salt spray. The colossal, silent cranes of
@@ -1129,7 +1129,7 @@ pulling them all down into the freezing, weightless dark of the harbor.
 
 ---    
 
-### Scene 8: The Inventory of a Soul
+## Scene 8: The Inventory of a Soul
 
 **Setting:** Room 412, High-Dependency Unit of the Oakland Medical
 Center.
