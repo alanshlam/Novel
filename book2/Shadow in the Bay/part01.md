@@ -312,6 +312,8 @@ unaware that inside the darkened office, Xavier Stone had collapsed
 against his desk, his face buried deeply in his hands as the silent,
 suffocating weight of his past broke him in two.
 
+
+<img src=../image/confront05.png width="800">
 ---   
 
 ### Scene 3: The Geometry of a Trap
