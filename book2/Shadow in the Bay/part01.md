@@ -1271,6 +1271,9 @@ soft, encouraging whisper. She told him about her classroom, about the
 rain clearing over the East Bay, and she whispered over and over that he
 was no longer alone in that empty cell.
 
+<img src=../image/vigil02.png width="800">
+
+
 **The Awakening**
 
 On a crisp, clear morning in late September, the autumn sun finally
