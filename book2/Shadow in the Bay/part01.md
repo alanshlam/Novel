@@ -184,10 +184,6 @@ for first-degree murder. The DA is already drafting the charges.\"
 Yian sank back into the chair, the cuffs clinking mockingly against the
 table as the cold reality of the trap closed around him.
 
-💡 Would you like to write the next scene, where **Zoe Lin** arrives at
-Xavier\'s architectural office, confronting his cold exterior while he
-secretly coordinates her protection behind her back?
-
 ---   
 
 ## Scene 2: The Architecture of Silence
