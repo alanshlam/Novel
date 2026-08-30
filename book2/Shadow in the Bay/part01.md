@@ -1387,7 +1387,7 @@ Wendy Adler's old teak desk, which she had moved into her new director's
 suite. Resting on the desk was a series of encrypted camera cards and a
 stack of unredacted files Wendy had compiled before her death.
 
-On the top page, a high-resolution photo of **Vivian Fan ** stared
+On the top page, a high-resolution photo of **Vivian Fan** stared
 back at her. Surrounding her photo were handwritten annotations tracking
 Vivian\'s extensive \"target packages\" of rising Bay Area politicos.
 
