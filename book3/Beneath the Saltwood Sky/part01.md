@@ -8,10 +8,13 @@
 
 
 ### Sarah Hayes ("Clara") 
+<img src=../image/Sarah.png width="100"> 
 
 **Sarah Hayes ("Clara")** A former Cranston University engineering student forced into hiding after a tragic betrayal, Sarah arrives in the coastal border town of Saltmere stripped of her identity, her family, and her future. Hiding behind the alias "Clara," she buries her grief beneath hard physical labor while using her mastery of chemical alchemy to build improvised weapons from everyday scrap. Quiet, practical, and fiercely resilient, she refuses to remain a passive fugitive—choosing instead to stand shoulder-to-shoulder with the resistance to carve out a future from the dark.
 
 ## Tony Brown
+<img src=../image/Tony.png width="100"> 
+
 **Tony Brown** A local Saltmere college student turned weary inn hand, Tony lives a dangerous double life right under the town's nose. Disillusioned by the occupation and driven by a deep moral spine, he spends his nights operating a secret subterranean safehouse and piloting a high-powered speedboat through searchlight-swept blockades to smuggle political refugees to safety. Guarded and cynical on the outside, Tony views every innocent soul he pulls across the water as a vital seed planted to break the empire from within.
 
 
