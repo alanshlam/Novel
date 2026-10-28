@@ -106,6 +106,8 @@ away from the doorframe and leaving him standing alone on the dark
 concrete platform, a solitary silhouette swallowed by the steam and the
 gathering shadows.
 
+<img src=../image/ch01-02.png width="800"> 
+
 A sudden gust of wind howling down the narrow alleyway snapped Sarah
 back to the present.
 
