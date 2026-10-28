@@ -1087,6 +1087,8 @@ heavily onto the wood. She leaned down close enough for the sergeant to
 catch the overpowering, rank fumes of cheap grain spirits---a bottle
 Henry had liberally doused over her jacket minutes before the arrest.
 
+<img src=../image/ch05-01.png width="800"> 
+
 Her eyes rolled back slightly, her face contorting into a nauseated
 grimace. \"Hey\... handsome,\" Sarah rasped, her voice thick and
 slurred. \"Tell me you got a bucket\... or this desk is about to get
@@ -1171,6 +1173,8 @@ out!\"
 Klaxons blared, doors slammed, and shouting officers rushed into the
 blinded, smoke-choked lobby.
 
+<img src=../image/ch05-06.png width="800"> 
+
 Inside cell three, through the dense fog rolling under the door, Sarah
 stood up in the dark, her jaw set, ready to move.
 
@@ -1190,6 +1194,7 @@ She pressed the adhesive strips directly onto the upper and lower steel
 hinges of the cell door.
 
 *Crack-BOOM!*
+<img src=../image/ch05-04.png width="800">   
 
 The shaped micro-charges detonated with two crisp, concussive thuds. The
 heavy iron door crashed forward onto the concrete corridor floor.
@@ -1235,6 +1240,8 @@ compressed the explosive kinetic force directly into the stone, shearing
 the wall without producing a lethal thermal wave. Tons of concrete and
 basalt blew inward, showering the protective mattress with heavy debris.
 
+<img src=../image/ch05-05.png width="800">    
+
 When the dust cleared, a jagged, six-foot breach opened straight to the
 outside night.
 
@@ -1252,6 +1259,8 @@ Sarah threw off the battered mattress, lifted the disoriented professor,
 and handed her into the hydraulic grip of Tony's armored arms. Tony
 scooped Linda up easily, shouting over the sirens: \"Move! The stolen
 rig is in the alley!\"
+
+<img src=../image/ch05-02.png width="800">   
 
 All three vanished into the rain and smoke.
 
