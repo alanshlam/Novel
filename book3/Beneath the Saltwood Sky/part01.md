@@ -274,6 +274,7 @@ Hot, silent tears carved burning tracks down her cheeks, soaking into
 the stained mat as the sea wind howled outside her window, reminding her
 that she was entirely alone in the dark.
 
+<img src=../image/ch02-01.png width="800"> 
 
 ---   
  
@@ -467,6 +468,9 @@ sea.
 
 Neither of them spoke. The quiet between them was no longer awkward; it
 was a sanctuary.
+
+<img src=../image/ch03-01.png width="800"> 
+
 
 After a long minute, Tony reached down, turned the key, and tapped the
 choke button. The engine turned over, caught, and settled into a deep,
@@ -692,6 +696,7 @@ the exit.
 \"Are you\...\" Sarah's voice cracked, sharp and desperate, \"are you
 going to turn me in to collect your bounty?\"
 
+<img src=../image/ch04-02.png width="800"> 
 
 Tony didn\'t flinch. He didn\'t reach for his belt, nor did he make a
 move toward the door. Instead, the hard, defensive shell he had worn
@@ -886,6 +891,8 @@ try, they'll catch us both. Run! Save Sarah first!\"
 
 *"Go!"* Linda cried, her voice cracking as the sweeping beam of a patrol
 searchlight scoured the upper beachline.
+
+<img src=../image/ch05-03.png width="800"> 
 
 Tony hesitated, a fraction of a second agonizingly stretched between
 survival and duty, before he grabbed Sarah\'s arm and dragged her deep
