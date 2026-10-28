@@ -892,7 +892,7 @@ try, they'll catch us both. Run! Save Sarah first!\"
 *"Go!"* Linda cried, her voice cracking as the sweeping beam of a patrol
 searchlight scoured the upper beachline.
 
-<img src=../image/ch05-03.png width="800"> 
+<img src=../image/ch04-03.png width="800"> 
 
 Tony hesitated, a fraction of a second agonizingly stretched between
 survival and duty, before he grabbed Sarah\'s arm and dragged her deep
